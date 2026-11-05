@@ -37,14 +37,18 @@ export async function POST(request: Request) {
       { expiresIn: "12h" }
     );
 
-    createAuditLog({
-      userId: user.id,
-      userName: user.name,
-      action: "STAFF_LOGIN",
-      module: "Authentication",
-      details: `Successful login as ${user.roleName}`,
-      ipAddress: "127.0.0.1",
-    });
+    try {
+      createAuditLog({
+        userId: user.id,
+        userName: user.name,
+        action: "STAFF_LOGIN",
+        module: "Authentication",
+        details: `Successful login as ${user.roleName}`,
+        ipAddress: "127.0.0.1",
+      });
+    } catch {
+      // Audit log should never block successful login
+    }
 
     return NextResponse.json({
       success: true,

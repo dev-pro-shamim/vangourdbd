@@ -2,12 +2,12 @@
 
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { Lock, Mail, Eye, EyeOff, ShieldCheck, ArrowRight, Sparkles, AlertCircle, CheckCircle2 } from "lucide-react";
+import { Lock, Mail, Eye, EyeOff, ShieldCheck, ArrowRight, AlertCircle, CheckCircle2 } from "lucide-react";
 
 export default function AdminLoginPage() {
   const router = useRouter();
-  const [email, setEmail] = useState("admin@vanguardbd.com");
-  const [password, setPassword] = useState("admin123");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
@@ -60,26 +60,12 @@ export default function AdminLoginPage() {
 
       setTimeout(() => {
         window.location.href = "/admin";
-      }, 700);
+      }, 600);
     } catch (err: any) {
       setErrorMessage(err.message || "Failed to log in. Please check credentials.");
     } finally {
       setIsLoading(false);
     }
-  };
-
-  const handleQuickFill = (role: "super" | "orders" | "inventory") => {
-    if (role === "super") {
-      setEmail("admin@vanguardbd.com");
-      setPassword("admin123");
-    } else if (role === "orders") {
-      setEmail("orders@vanguardbd.com");
-      setPassword("admin123");
-    } else {
-      setEmail("warehouse@vanguardbd.com");
-      setPassword("admin123");
-    }
-    setErrorMessage("");
   };
 
   return (
@@ -92,7 +78,7 @@ export default function AdminLoginPage() {
 
       <div className="w-full max-w-md relative z-10">
         {/* Brand Card */}
-        <div className="bg-[#0f172a]/90 backdrop-blur-xl border border-slate-800 rounded-3xl p-8 sm:p-10 shadow-2xl shadow-black/80">
+        <div className="bg-[#0f172a]/95 backdrop-blur-xl border border-slate-800 rounded-3xl p-8 sm:p-10 shadow-2xl shadow-black/80">
           {/* Header */}
           <div className="text-center space-y-3 mb-8">
             <div className="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-gradient-to-br from-amber-400 to-amber-600 text-black shadow-lg shadow-amber-500/20 mb-2">
@@ -136,7 +122,7 @@ export default function AdminLoginPage() {
                   required
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  placeholder="admin@vanguardbd.com"
+                  placeholder="Enter your admin email"
                   className="w-full bg-slate-900/90 border border-slate-700/80 rounded-xl pl-10 pr-4 py-3 text-sm text-white placeholder-slate-600 focus:outline-none focus:border-amber-400 focus:ring-1 focus:ring-amber-400 transition"
                 />
               </div>
@@ -155,13 +141,13 @@ export default function AdminLoginPage() {
                   required
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
-                  placeholder="••••••••"
+                  placeholder="Enter your password"
                   className="w-full bg-slate-900/90 border border-slate-700/80 rounded-xl pl-10 pr-11 py-3 text-sm text-white placeholder-slate-600 focus:outline-none focus:border-amber-400 focus:ring-1 focus:ring-amber-400 transition font-mono"
                 />
                 <button
                   type="button"
                   onClick={() => setShowPassword(!showPassword)}
-                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-500 hover:text-slate-300"
+                  className="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-500 hover:text-slate-300 cursor-pointer"
                 >
                   {showPassword ? <EyeOff size={16} /> : <Eye size={16} />}
                 </button>
@@ -178,38 +164,8 @@ export default function AdminLoginPage() {
             </button>
           </form>
 
-          {/* Quick Demo Fill Buttons */}
-          <div className="mt-8 pt-6 border-t border-slate-800">
-            <p className="text-[11px] font-bold uppercase tracking-wider text-slate-400 text-center mb-3">
-              One-Click Credentials (Auto Fill)
-            </p>
-            <div className="grid grid-cols-3 gap-2">
-              <button
-                type="button"
-                onClick={() => handleQuickFill("super")}
-                className="py-1.5 px-2 rounded-lg bg-slate-800/80 hover:bg-slate-700 border border-slate-700 text-[10px] font-bold text-amber-400 transition text-center"
-              >
-                Super Admin
-              </button>
-              <button
-                type="button"
-                onClick={() => handleQuickFill("orders")}
-                className="py-1.5 px-2 rounded-lg bg-slate-800/80 hover:bg-slate-700 border border-slate-700 text-[10px] font-bold text-slate-300 transition text-center"
-              >
-                Orders
-              </button>
-              <button
-                type="button"
-                onClick={() => handleQuickFill("inventory")}
-                className="py-1.5 px-2 rounded-lg bg-slate-800/80 hover:bg-slate-700 border border-slate-700 text-[10px] font-bold text-slate-300 transition text-center"
-              >
-                Inventory
-              </button>
-            </div>
-          </div>
-
           {/* Footer Back Link */}
-          <div className="mt-6 text-center">
+          <div className="mt-8 pt-6 border-t border-slate-800/80 text-center">
             <a
               href="/"
               className="text-xs text-slate-500 hover:text-slate-300 transition font-medium"

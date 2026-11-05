@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import os from "os";
 import mongoose from "mongoose";
 import {
   SiteSettings,
@@ -79,35 +80,82 @@ export async function connectMongo() {
   }
 }
 
-// Local Storage Directory
-const CMS_DATA_DIR = path.join(process.cwd(), ".cms-data");
+// In-Memory Storage Cache (Guarantees zero EROFS crashes on serverless like Vercel)
+const memoryCache = new Map<string, any>();
 
-function ensureDirectory() {
-  if (!fs.existsSync(CMS_DATA_DIR)) {
-    fs.mkdirSync(CMS_DATA_DIR, { recursive: true });
+// Local Storage Directories (Project root and /tmp fallback for Vercel/AWS Lambda)
+const CMS_DATA_DIR = path.join(process.cwd(), ".cms-data");
+const TMP_DATA_DIR = path.join(os.tmpdir(), "vanguard-cms-data");
+
+function ensureDirectory(dirPath: string) {
+  try {
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath, { recursive: true });
+    }
+  } catch {
+    // Read-only filesystem or permissions error handled silently
   }
 }
 
 function readJsonFile<T>(fileName: string, defaultData: T): T {
-  ensureDirectory();
-  const filePath = path.join(CMS_DATA_DIR, fileName);
-  if (!fs.existsSync(filePath)) {
-    fs.writeFileSync(filePath, JSON.stringify(defaultData, null, 2), "utf-8");
-    return defaultData;
+  // 1. Check in-memory cache first
+  if (memoryCache.has(fileName)) {
+    return memoryCache.get(fileName) as T;
   }
+
+  // 2. Check /tmp directory (writable in serverless)
   try {
-    const raw = fs.readFileSync(filePath, "utf-8");
-    return JSON.parse(raw) as T;
-  } catch (err) {
-    console.error(`Failed to read ${fileName}, falling back to default:`, err);
-    return defaultData;
+    const tmpPath = path.join(TMP_DATA_DIR, fileName);
+    if (fs.existsSync(tmpPath)) {
+      const raw = fs.readFileSync(tmpPath, "utf-8");
+      const parsed = JSON.parse(raw) as T;
+      memoryCache.set(fileName, parsed);
+      return parsed;
+    }
+  } catch {
+    // ignore
   }
+
+  // 3. Check project directory (.cms-data)
+  try {
+    const projPath = path.join(CMS_DATA_DIR, fileName);
+    if (fs.existsSync(projPath)) {
+      const raw = fs.readFileSync(projPath, "utf-8");
+      const parsed = JSON.parse(raw) as T;
+      memoryCache.set(fileName, parsed);
+      return parsed;
+    }
+  } catch {
+    // ignore
+  }
+
+  // 4. Fallback to default data
+  memoryCache.set(fileName, defaultData);
+  return defaultData;
 }
 
 function writeJsonFile<T>(fileName: string, data: T): void {
-  ensureDirectory();
-  const filePath = path.join(CMS_DATA_DIR, fileName);
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
+  // 1. Always update memory cache so runtime reads get updated state immediately
+  memoryCache.set(fileName, data);
+
+  // 2. Try writing to /tmp directory (writable in Vercel Serverless)
+  try {
+    ensureDirectory(TMP_DATA_DIR);
+    const tmpPath = path.join(TMP_DATA_DIR, fileName);
+    fs.writeFileSync(tmpPath, JSON.stringify(data, null, 2), "utf-8");
+  } catch {
+    // ignore
+  }
+
+  // 3. Try writing to project directory (local development)
+  try {
+    ensureDirectory(CMS_DATA_DIR);
+    const projPath = path.join(CMS_DATA_DIR, fileName);
+    fs.writeFileSync(projPath, JSON.stringify(data, null, 2), "utf-8");
+  } catch (err: any) {
+    // Gracefully catch EROFS (Read-only file system on Vercel)
+    // Never crash API request on read-only file systems
+  }
 }
 
 // ====================================================
