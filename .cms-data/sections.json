@@ -1,0 +1,273 @@
+[
+  {
+    "id": "sec-hero-1",
+    "name": "Hero Campaign Carousel",
+    "type": "hero_slider",
+    "order": 1,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "12px",
+      "paddingBottom": "24px"
+    },
+    "data": {
+      "slides": [
+        {
+          "id": "slide-1",
+          "desktopImage": "/assets/banner/VuASK1790148496-light-4348x1613.jpeg",
+          "mobileImage": "/assets/banner/M93eh1790150699-light-1686x1800.jpg",
+          "title": "VANGUARD TACTICAL DROP",
+          "subtitle": "EXPLORE YOUR FASHION",
+          "buttonText": "Shop Collection",
+          "buttonLink": "/category/New-Arrivals",
+          "hasBrandOverlay": false,
+          "isEnabled": true
+        },
+        {
+          "id": "slide-2",
+          "desktopImage": "/assets/banner/TAPFJ1784980888-dark-4348x1613.jpeg",
+          "mobileImage": "/assets/banner/21vgD1784981320-dark-1101x1321.jpeg",
+          "title": "Best Selling Half Shirts",
+          "subtitle": "Premium lightweight summer fabrics",
+          "buttonText": "Explore Shirts",
+          "buttonLink": "/category/Best-selling-Half-Shirts-2",
+          "hasBrandOverlay": false,
+          "isEnabled": true
+        },
+        {
+          "id": "slide-3",
+          "desktopImage": "/assets/banner/lbx2U1780402785-dark-1915x709.jpg",
+          "mobileImage": "/assets/banner/nMofP1790167547-light-1500x2100.jpg",
+          "title": "Signature Denim 2026",
+          "subtitle": "Bring your denim back to life",
+          "buttonText": "Discover Denim",
+          "buttonLink": "/category/denim",
+          "hasBrandOverlay": false,
+          "isEnabled": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "sec-categories-2",
+    "name": "Our Collection (Category Carousel)",
+    "type": "category_collection",
+    "title": "Our Collection",
+    "eyebrow": "CATEGORIES",
+    "order": 2,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "16px",
+      "paddingBottom": "40px"
+    },
+    "data": {
+      "columns": 4,
+      "limit": 12
+    }
+  },
+  {
+    "id": "sec-product-slider-1",
+    "name": "Gentle Men's Choice",
+    "type": "product_carousel",
+    "title": "Gentle Men's Choice",
+    "order": 3,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "20px",
+      "paddingBottom": "48px"
+    },
+    "data": {
+      "categorySlug": "Best-selling-Half-Shirts-2",
+      "showArrows": true
+    }
+  },
+  {
+    "id": "sec-video-banner-4",
+    "name": "Video Promo Banner",
+    "type": "video_banner",
+    "title": "Best Fashion Store Available to Everyone!",
+    "subtitle": "Crafted with hand-picked fabrics, industrial reinforced stitchery, and tailored ergonomics made for all-day comfort.",
+    "eyebrow": "Up to 25% Off Sale",
+    "order": 4,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "20px",
+      "paddingBottom": "48px"
+    },
+    "data": {
+      "videoUrl": "/assets/banner/TAPFJ1784980888-dark-4348x1613.jpeg",
+      "posterImage": "/assets/banner/gZMsL1785584381-2002x1037.jpg",
+      "discountBadge": "25% OFF",
+      "buttonText": "Claim Discount",
+      "buttonLink": "/category/Flash-Sale"
+    }
+  },
+  {
+    "id": "sec-product-slider-2",
+    "name": "Bring your denim back to life",
+    "type": "product_carousel",
+    "title": "Bring your denim back to life",
+    "order": 5,
+    "isEnabled": false,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "20px",
+      "paddingBottom": "48px"
+    },
+    "data": {
+      "categorySlug": "denim",
+      "showArrows": true
+    }
+  },
+  {
+    "id": "sec-banner-grid-6",
+    "name": "3-Column Promo Grid",
+    "type": "banner_grid",
+    "order": 6,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "20px",
+      "paddingBottom": "48px"
+    },
+    "data": {
+      "banners": [
+        {
+          "id": "b-1",
+          "title": "Premium Polo Edition",
+          "subtitle": "Classic knit collars & structured comfort",
+          "image": "/assets/banner/OxByZ1785564423-1726x1854.jpg",
+          "link": "/category/Polo-Shirt",
+          "badge": "NEW DROP"
+        },
+        {
+          "id": "b-2",
+          "title": "Heavyweight Denim",
+          "subtitle": "Built to endure, tailored to fit",
+          "image": "/assets/banner/lbx2U1780402785-dark-1915x709.jpg",
+          "link": "/category/denim",
+          "badge": "HOT SELLER"
+        },
+        {
+          "id": "b-3",
+          "title": "Tactical Cargo Pants",
+          "subtitle": "Reinforced pockets & ergonomic cut",
+          "image": "/assets/banner/wfNI31785564455-1726x1854.jpg",
+          "link": "/category/pant",
+          "badge": "TRENDING"
+        }
+      ]
+    }
+  },
+  {
+    "id": "sec-new-arrivals-7",
+    "name": "New Arrivals Showcase",
+    "type": "new_arrivals",
+    "title": "New Arrivals",
+    "order": 7,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "20px",
+      "paddingBottom": "48px"
+    },
+    "data": {
+      "categories": [
+        "All",
+        "Shirts",
+        "T-Shirts",
+        "Pants",
+        "Accessories"
+      ]
+    }
+  },
+  {
+    "id": "sec-bento-grid-8",
+    "name": "Are You a Sporty Person! (Bento Grid)",
+    "type": "bento_grid",
+    "title": "Are You a Sporty Person!",
+    "eyebrow": "ACTIVE GEAR",
+    "order": 8,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "20px",
+      "paddingBottom": "48px"
+    },
+    "data": {
+      "bentoItems": [
+        {
+          "id": "bi-1",
+          "title": "TACTICAL PANTS",
+          "subtitle": "Engineered for utility",
+          "image": "/assets/category/hn8ac1780476447.jpg",
+          "link": "/category/denim",
+          "size": "large"
+        },
+        {
+          "id": "bi-2",
+          "title": "PREMIUM CAPS",
+          "subtitle": "Tactical headwear",
+          "image": "/assets/category/dVZuG1780476419.jpg",
+          "link": "/category/New-Arrivals",
+          "size": "medium"
+        },
+        {
+          "id": "bi-3",
+          "title": "SIGNATURE POLO",
+          "subtitle": "Classic fit & breathability",
+          "image": "/assets/category/A7Lq51780476457.jpg",
+          "link": "/category/Best-selling-Half-Shirts-2",
+          "size": "medium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "sec-features-9",
+    "name": "Value Proposition Grid",
+    "type": "feature_grid",
+    "order": 9,
+    "isEnabled": true,
+    "pageSlug": "home",
+    "styles": {
+      "paddingTop": "24px",
+      "paddingBottom": "56px"
+    },
+    "data": {
+      "features": [
+        {
+          "id": "f-1",
+          "num": "01",
+          "title": "Cash On Delivery",
+          "description": "Pay securely upon receiving your package anywhere in Bangladesh.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "id": "f-2",
+          "num": "02",
+          "title": "7 Days Easy Return",
+          "description": "Hassle-free size exchange and direct returns if not 100% satisfied.",
+          "icon": "RotateCcw"
+        },
+        {
+          "id": "f-3",
+          "num": "03",
+          "title": "100% Authentic Quality",
+          "description": "Engineered fabrics, custom washes, and reinforced craftsmanship.",
+          "icon": "Award"
+        },
+        {
+          "id": "f-4",
+          "num": "04",
+          "title": "24/7 Priority Support",
+          "description": "Our dedicated care team is ready to assist via WhatsApp & hotline.",
+          "icon": "Headphones"
+        }
+      ]
+    }
+  }
+]

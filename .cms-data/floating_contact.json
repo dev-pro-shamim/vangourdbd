@@ -1,0 +1,39 @@
+{
+  "isEnabled": true,
+  "position": "bottom-right",
+  "buttons": [
+    {
+      "id": "btn-wa",
+      "type": "whatsapp",
+      "label": "WhatsApp Support",
+      "value": "8801886111111",
+      "color": "#25D366",
+      "icon": "message-circle",
+      "enabled": true,
+      "showOnDesktop": true,
+      "showOnMobile": true
+    },
+    {
+      "id": "btn-call",
+      "type": "call",
+      "label": "Call Helpline",
+      "value": "01886111111",
+      "color": "#111111",
+      "icon": "phone",
+      "enabled": true,
+      "showOnDesktop": true,
+      "showOnMobile": true
+    },
+    {
+      "id": "btn-messenger",
+      "type": "messenger",
+      "label": "Facebook Messenger",
+      "value": "https://m.me/vanguardbd",
+      "color": "#0084FF",
+      "icon": "send",
+      "enabled": true,
+      "showOnDesktop": true,
+      "showOnMobile": false
+    }
+  ]
+}

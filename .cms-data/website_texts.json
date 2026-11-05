@@ -1,0 +1,182 @@
+[
+  {
+    "id": "txt-hero-title",
+    "group": "homepage",
+    "key": "hero_title",
+    "label": "Hero Banner Main Heading",
+    "value": "VANGUARD BD - TACTICAL INNOVATION",
+    "defaultValue": "EXPLORE YOUR FASHION",
+    "description": "Top headline displayed over the main hero banner carousel",
+    "updatedAt": "2026-11-05T09:45:56.940Z"
+  },
+  {
+    "id": "txt-hero-subtitle",
+    "group": "homepage",
+    "key": "hero_subtitle",
+    "label": "Hero Banner Subtitle",
+    "value": "ENGINEERED URBAN WEAR 2026",
+    "defaultValue": "TACTICAL PRECISION & URBAN ENDURANCE",
+    "description": "Secondary headline displayed beneath the hero title",
+    "updatedAt": "2026-11-05T09:45:56.940Z"
+  },
+  {
+    "id": "txt-hero-cta",
+    "group": "homepage",
+    "key": "hero_cta_button",
+    "label": "Hero CTA Button Text",
+    "value": "SHOP COLLECTION",
+    "defaultValue": "SHOP COLLECTION",
+    "description": "Primary action button label on the hero carousel",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-categories-title",
+    "group": "categories",
+    "key": "categories_section_title",
+    "label": "Category Section Title",
+    "value": "CATEGORIES",
+    "defaultValue": "CATEGORIES",
+    "description": "Heading displayed above the homepage category circular grid",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-categories-subtitle",
+    "group": "categories",
+    "key": "categories_section_subtitle",
+    "label": "Category Section Subtitle",
+    "value": "EXPLORE OUR SIGNATURE COLLECTIONS",
+    "defaultValue": "EXPLORE OUR SIGNATURE COLLECTIONS",
+    "description": "Subtitle displayed above the category circular grid",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-flashsale-title",
+    "group": "products",
+    "key": "flash_sale_title",
+    "label": "Flash Sale Section Title",
+    "value": "Flash Sale",
+    "defaultValue": "Flash Sale",
+    "description": "Title for flash sale promotional carousel",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-newarrivals-title",
+    "group": "products",
+    "key": "new_arrivals_title",
+    "label": "New Arrivals Section Title",
+    "value": "New Arrivals",
+    "defaultValue": "New Arrivals",
+    "description": "Title for new arrivals carousel",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-announcement",
+    "group": "announcement",
+    "key": "announcement_bar_text",
+    "label": "Announcement Bar Text",
+    "value": "⚡ FLASH SALE: ENJOY UP TO 40% OFF STOREWIDE + FREE SHIPPING ON ORDERS OVER ৳3,000",
+    "defaultValue": "⚡ FLASH SALE: ENJOY UP TO 40% OFF STOREWIDE + FREE SHIPPING ON ORDERS OVER ৳3,000",
+    "description": "Top bar scrolling/marquee notification text",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-newsletter-title",
+    "group": "newsletter",
+    "key": "newsletter_heading",
+    "label": "Newsletter Heading",
+    "value": "JOIN THE VANGUARD MOVEMENT",
+    "defaultValue": "JOIN THE VANGUARD MOVEMENT",
+    "description": "Heading for email newsletter opt-in box",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-newsletter-subtitle",
+    "group": "newsletter",
+    "key": "newsletter_description",
+    "label": "Newsletter Description",
+    "value": "Subscribe to receive drops, tactical styling guides, and exclusive VIP discounts.",
+    "defaultValue": "Subscribe to receive drops, tactical styling guides, and exclusive VIP discounts.",
+    "description": "Paragraph beneath the newsletter heading",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-footer-watermark",
+    "group": "footer",
+    "key": "footer_watermark",
+    "label": "Footer Background Watermark",
+    "value": "VANGUARD",
+    "defaultValue": "VANGUARD",
+    "description": "Large translucent backdrop brand lettering in the footer",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-footer-bio",
+    "group": "footer",
+    "key": "footer_bio",
+    "label": "Footer Brand Description",
+    "value": "Dhaka's premier tactical technical apparel brand. Engineered for extreme endurance.",
+    "defaultValue": "Bangladesh's leading tactical & active streetwear destination. Crafted with uncompromising precision, premium GSM cottons, and durable utilitarian aesthetics.",
+    "description": "Short brand bio in footer column 1",
+    "updatedAt": "2026-11-05T09:45:56.940Z"
+  },
+  {
+    "id": "txt-footer-copyright",
+    "group": "footer",
+    "key": "footer_copyright",
+    "label": "Footer Copyright Notice",
+    "value": "© 2026 VANGUARD BD. All Rights Reserved. Engineered for Performance.",
+    "defaultValue": "© 2026 VANGUARD BD. All Rights Reserved. Engineered for Performance.",
+    "description": "Bottom footer legal copyright line",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-contact-phone",
+    "group": "contact",
+    "key": "contact_phone",
+    "label": "Customer Support Helpline",
+    "value": "+880 1712-345678",
+    "defaultValue": "+880 1712-345678",
+    "description": "Phone number shown on header, footer, and contact page",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-contact-email",
+    "group": "contact",
+    "key": "contact_email",
+    "label": "Customer Support Email",
+    "value": "support@vanguardbd.com",
+    "defaultValue": "support@vanguardbd.com",
+    "description": "Public contact email address",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-contact-address",
+    "group": "contact",
+    "key": "contact_address",
+    "label": "Flagship HQ Address",
+    "value": "House 12, Road 4, Sector 3, Uttara, Dhaka - 1230, Bangladesh",
+    "defaultValue": "House 12, Road 4, Sector 3, Uttara, Dhaka - 1230, Bangladesh",
+    "description": "Physical retail / HQ address",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-policy-shipping",
+    "group": "policy",
+    "key": "policy_shipping_summary",
+    "label": "Shipping Policy Summary",
+    "value": "Fast nationwide express courier delivery. Orders inside Dhaka are delivered within 24-48 hours. Orders outside Dhaka delivered within 48-72 hours via Steadfast or Pathao.",
+    "defaultValue": "Fast nationwide express courier delivery. Orders inside Dhaka are delivered within 24-48 hours. Orders outside Dhaka delivered within 48-72 hours via Steadfast or Pathao.",
+    "description": "Shown on checkout and product details delivery tabs",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  },
+  {
+    "id": "txt-policy-returns",
+    "group": "policy",
+    "key": "policy_returns_summary",
+    "label": "Returns & Exchange Summary",
+    "value": "Hassle-free 7-day exchange warranty. In case of size misfit or defect, return parcel with rider or contact our helpline immediately.",
+    "defaultValue": "Hassle-free 7-day exchange warranty. In case of size misfit or defect, return parcel with rider or contact our helpline immediately.",
+    "description": "Shown on checkout and product details warranty tabs",
+    "updatedAt": "2026-11-05T00:00:00Z"
+  }
+]

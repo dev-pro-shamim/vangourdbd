@@ -1,0 +1,98 @@
+[
+  {
+    "id": "page-home",
+    "title": "Homepage",
+    "slug": "home",
+    "isSystem": true,
+    "isPublished": true,
+    "template": "builder",
+    "content": "",
+    "seoTitle": "VANGUARD BD - High-End Lifestyle & Fashion Store",
+    "seoDescription": "Explore the latest collection of premium shirts, polo, denim, and joggers in Bangladesh.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "page-shop",
+    "title": "Shop Catalog",
+    "slug": "shop",
+    "isSystem": true,
+    "isPublished": true,
+    "template": "default",
+    "content": "",
+    "seoTitle": "Shop All Products - VANGUARD BD",
+    "seoDescription": "Browse our complete catalog of men and women apparel in Bangladesh.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "page-contact",
+    "title": "Contact Us",
+    "slug": "contact",
+    "isSystem": false,
+    "isPublished": true,
+    "template": "contact",
+    "content": "Have questions about an order or sizing? Reach out to our customer care team via phone, WhatsApp, or email. We are available Saturday to Thursday from 10:00 AM to 8:00 PM.",
+    "seoTitle": "Contact Us - VANGUARD BD",
+    "seoDescription": "Get in touch with VANGUARD BD customer support.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "page-terms",
+    "title": "Terms & Conditions",
+    "slug": "terms/of/services",
+    "isSystem": false,
+    "isPublished": true,
+    "template": "policy",
+    "content": "Welcome to VANGUARD BD. By accessing our website, purchasing products, or engaging our services, you agree to be bound by these Terms of Service. All descriptions of products or product pricing are subject to change at any time without notice at our sole discretion. We reserve the right to refuse any order placed with us in case of inaccuracies or suspected fraudulent behavior.",
+    "seoTitle": "Terms & Conditions | VANGUARD BD",
+    "seoDescription": "Review our terms and conditions for shopping, delivery, pricing, and warranties.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "page-privacy",
+    "title": "Privacy Policy",
+    "slug": "privacy/policy",
+    "isSystem": false,
+    "isPublished": true,
+    "template": "policy",
+    "content": "At VANGUARD BD, we are committed to protecting your privacy and security. We collect customer information such as name, phone number, and delivery address solely for the purpose of order processing, shipping, and fraud prevention. We do not sell or share your personal data with third-party marketers.",
+    "seoTitle": "Privacy Policy | VANGUARD BD",
+    "seoDescription": "Learn how VANGUARD BD collects, protects, and uses customer personal information.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "page-shipping",
+    "title": "Shipping & Delivery Policy",
+    "slug": "shipping/policy",
+    "isSystem": false,
+    "isPublished": true,
+    "template": "policy",
+    "content": "We offer express nationwide shipping across all 64 districts in Bangladesh via trusted couriers (Steadfast, Pathao, RedX). Inside Dhaka delivery charge is ৳70 (takes 24-48 hours). Outside Dhaka delivery charge is ৳130 (takes 48-72 hours). Free delivery is available on orders over ৳3,000.",
+    "seoTitle": "Shipping & Delivery Policy | VANGUARD BD",
+    "seoDescription": "Nationwide shipping delivery times, delivery fees, and cash on delivery instructions.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "page-return",
+    "title": "Return & Refund Policy",
+    "slug": "return/policy",
+    "isSystem": false,
+    "isPublished": true,
+    "template": "policy",
+    "content": "We offer a 7-day easy exchange and return policy. If you receive a damaged product or an incorrect size, please notify our customer helpline within 3 days of delivery. Returns must include original tags, packaging, and unwashed condition.",
+    "seoTitle": "Return & Refund Policy | VANGUARD BD",
+    "seoDescription": "7-day easy returns and size exchange guidelines.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "page-faq",
+    "title": "Frequently Asked Questions",
+    "slug": "faq",
+    "isSystem": false,
+    "isPublished": true,
+    "template": "policy",
+    "content": "Q: How long does delivery take?\nA: Orders inside Dhaka are delivered in 24-48 hours. Outside Dhaka takes 2-4 days.\n\nQ: What are the payment options?\nA: We offer Cash on Delivery (COD), bKash, Nagad, Rocket, and Bank Transfer.\n\nQ: How can I exchange for a different size?\nA: Contact our helpline or WhatsApp within 7 days of receiving your parcel.",
+    "seoTitle": "FAQ | VANGUARD BD Help Center",
+    "seoDescription": "Frequently asked questions regarding sizing, shipping, and returns.",
+    "updatedAt": "2026-11-05T12:00:00Z"
+  }
+]

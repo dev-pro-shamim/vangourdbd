@@ -1,0 +1,42 @@
+[
+  {
+    "userId": "user-super-1",
+    "userName": "Shahnawaz Shamim",
+    "action": "STAFF_LOGIN",
+    "module": "Authentication",
+    "details": "Successful login as Super Admin",
+    "ipAddress": "127.0.0.1",
+    "id": "log-1793871965576",
+    "timestamp": "2026-11-05T09:46:05.576Z"
+  },
+  {
+    "userId": "user-super-1",
+    "userName": "Shahnawaz Shamim",
+    "action": "STAFF_LOGIN",
+    "module": "Authentication",
+    "details": "Successful login as Super Admin",
+    "ipAddress": "127.0.0.1",
+    "id": "log-1793868775730",
+    "timestamp": "2026-11-05T08:52:55.730Z"
+  },
+  {
+    "userId": "user-super-1",
+    "userName": "Shahnawaz Shamim",
+    "action": "STAFF_LOGIN",
+    "module": "Authentication",
+    "details": "Successful login as Super Admin",
+    "ipAddress": "127.0.0.1",
+    "id": "log-1793868597668",
+    "timestamp": "2026-11-05T08:49:57.668Z"
+  },
+  {
+    "userId": "user-super-1",
+    "userName": "Shahnawaz Shamim",
+    "action": "STAFF_LOGIN",
+    "module": "Authentication",
+    "details": "Successful login as Super Admin",
+    "ipAddress": "127.0.0.1",
+    "id": "log-1793868462422",
+    "timestamp": "2026-11-05T08:47:42.422Z"
+  }
+]

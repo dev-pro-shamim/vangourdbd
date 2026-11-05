@@ -1,0 +1,50 @@
+{
+  "bkash": {
+    "enabled": true,
+    "appKey": "bk_app_live_84920",
+    "appSecret": "bk_secret_live_9921",
+    "username": "01886111111",
+    "password": "••••••••••••",
+    "isSandbox": false,
+    "instructions": "Pay instantly via your bKash wallet or bKash app. 0% extra fee."
+  },
+  "nagad": {
+    "enabled": true,
+    "merchantId": "NGD_MERCHANT_VANGUARD",
+    "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA...",
+    "privateKey": "-----BEGIN RSA PRIVATE KEY-----...",
+    "isSandbox": false,
+    "instructions": "Convenient payment using Nagad Payment Gateway."
+  },
+  "rocket": {
+    "enabled": true,
+    "accountType": "Merchant",
+    "number": "01886111111-9",
+    "instructions": "Select 'Payment' option from Rocket menu and enter Merchant account number."
+  },
+  "upay": {
+    "enabled": false,
+    "accountType": "Personal",
+    "number": "01886111111",
+    "instructions": "Send money to our official Upay account."
+  },
+  "sslcommerz": {
+    "enabled": true,
+    "storeId": "vanguard_live",
+    "storePassword": "••••••••••••",
+    "isSandbox": false
+  },
+  "cod": {
+    "enabled": true,
+    "extraCharge": 0,
+    "instructions": "Pay cash to the delivery rider upon inspecting the parcel."
+  },
+  "bankTransfer": {
+    "enabled": true,
+    "bankName": "City Bank Limited",
+    "accountName": "VANGUARD APPAREL LIMITED",
+    "accountNumber": "1102938481001",
+    "branch": "Gulshan-2 Branch",
+    "routingNumber": "225261182"
+  }
+}

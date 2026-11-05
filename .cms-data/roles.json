@@ -1,0 +1,107 @@
+[
+  {
+    "id": "role-super-admin",
+    "name": "Super Admin",
+    "description": "Full unlimited access to every module, ERP settings, security rules, and staff management.",
+    "permissions": [
+      "dashboard:view",
+      "products:manage",
+      "categories:manage",
+      "orders:manage",
+      "inventory:manage",
+      "couriers:manage",
+      "payments:manage",
+      "customers:manage",
+      "reviews:manage",
+      "reports:view",
+      "reports:export",
+      "cms:manage",
+      "marketing:manage",
+      "security:manage",
+      "staff:manage",
+      "settings:manage"
+    ],
+    "isSystem": true
+  },
+  {
+    "id": "role-admin",
+    "name": "Admin",
+    "description": "Operations and catalog manager with full permissions excluding security settings deletion.",
+    "permissions": [
+      "dashboard:view",
+      "products:manage",
+      "categories:manage",
+      "orders:manage",
+      "inventory:manage",
+      "couriers:manage",
+      "payments:manage",
+      "customers:manage",
+      "reviews:manage",
+      "reports:view",
+      "cms:manage"
+    ],
+    "isSystem": true
+  },
+  {
+    "id": "role-order-manager",
+    "name": "Order Manager",
+    "description": "Processes customer orders, assigns couriers, prints invoices, and performs fraud verification.",
+    "permissions": [
+      "dashboard:view",
+      "orders:manage",
+      "couriers:manage",
+      "customers:manage",
+      "reports:view"
+    ],
+    "isSystem": true
+  },
+  {
+    "id": "role-inventory-manager",
+    "name": "Inventory Manager",
+    "description": "Controls warehouse stock, supplier entries, purchases, stock adjustments, and valuations.",
+    "permissions": [
+      "dashboard:view",
+      "inventory:manage",
+      "products:manage",
+      "reports:view"
+    ],
+    "isSystem": true
+  },
+  {
+    "id": "role-customer-support",
+    "name": "Customer Support",
+    "description": "Assists customers, inspects order histories, checks phone fraud risk, and handles reviews.",
+    "permissions": [
+      "dashboard:view",
+      "orders:manage",
+      "customers:manage",
+      "reviews:manage"
+    ],
+    "isSystem": true
+  },
+  {
+    "id": "role-marketing-manager",
+    "name": "Marketing Manager",
+    "description": "Manages banners, homepage sections, Meta Pixel, GTM, and website promotions.",
+    "permissions": [
+      "dashboard:view",
+      "cms:manage",
+      "marketing:manage",
+      "reports:view"
+    ],
+    "isSystem": true
+  },
+  {
+    "id": "role-accountant",
+    "name": "Accountant",
+    "description": "Inspects payment transactions, COD remittances, sales reports, and refunds.",
+    "permissions": [
+      "dashboard:view",
+      "payments:manage",
+      "orders:manage",
+      "reports:view",
+      "reports:export"
+    ],
+    "isSystem": true
+  }
+]

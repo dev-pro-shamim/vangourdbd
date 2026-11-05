@@ -1,0 +1,218 @@
+[
+  {
+    "0": {
+      "id": "m-1",
+      "label": "Flash Sale",
+      "href": "/category/Flash-Sale",
+      "isHighlight": true
+    },
+    "1": {
+      "id": "m-2",
+      "label": "New Collection",
+      "href": "/category/New-Arrivals"
+    },
+    "2": {
+      "id": "m-3",
+      "label": "New Arrivals",
+      "href": "/category/New-Arrivals"
+    },
+    "3": {
+      "id": "m-4",
+      "label": "Men",
+      "href": "/category/Men"
+    },
+    "4": {
+      "id": "m-5",
+      "label": "Women's Wear",
+      "href": "/category/Woman's-Wear"
+    },
+    "5": {
+      "id": "m-6",
+      "label": "Pant Section",
+      "href": "/category/pant"
+    },
+    "6": {
+      "id": "m-7",
+      "label": "Oversized",
+      "href": "/category/signature-tees"
+    },
+    "7": {
+      "id": "m-8",
+      "label": "Accessories",
+      "href": "/category/cap"
+    },
+    "8": {
+      "id": "m-9",
+      "label": "Blazer",
+      "href": "/category/Jacket"
+    },
+    "9": {
+      "id": "m-10",
+      "label": "Activewear",
+      "href": "/category/activewear"
+    },
+    "10": {
+      "id": "m-11",
+      "label": "Legend Series",
+      "href": "/category/Legend-T-Shirt",
+      "isHighlight": true
+    },
+    "11": {
+      "id": "m-12",
+      "label": "Winter Collection",
+      "href": "/category/Winter-Collection"
+    },
+    "id": "menu-header-main",
+    "name": "Main Navigation Menu",
+    "location": "header_main",
+    "items": [
+      {
+        "id": "m-1",
+        "label": "Flash Sale",
+        "href": "/category/Flash-Sale",
+        "isHighlight": true
+      },
+      {
+        "id": "m-2",
+        "label": "New Collection",
+        "href": "/category/New-Arrivals"
+      },
+      {
+        "id": "m-3",
+        "label": "New Arrivals",
+        "href": "/category/New-Arrivals"
+      },
+      {
+        "id": "m-4",
+        "label": "Men",
+        "href": "/category/Men"
+      },
+      {
+        "id": "m-5",
+        "label": "Women's Wear",
+        "href": "/category/Woman's-Wear"
+      },
+      {
+        "id": "m-6",
+        "label": "Pant Section",
+        "href": "/category/pant"
+      },
+      {
+        "id": "m-7",
+        "label": "Oversized",
+        "href": "/category/signature-tees"
+      },
+      {
+        "id": "m-8",
+        "label": "Accessories",
+        "href": "/category/cap"
+      },
+      {
+        "id": "m-9",
+        "label": "Blazer",
+        "href": "/category/Jacket"
+      },
+      {
+        "id": "m-10",
+        "label": "Activewear",
+        "href": "/category/activewear"
+      },
+      {
+        "id": "m-11",
+        "label": "Legend Series",
+        "href": "/category/Legend-T-Shirt"
+      },
+      {
+        "id": "m-12",
+        "label": "Winter Collection",
+        "href": "/category/Winter-Collection"
+      }
+    ]
+  },
+  {
+    "id": "menu-footer-company",
+    "name": "Footer Company Menu",
+    "location": "footer_company",
+    "items": [
+      {
+        "id": "fc-1",
+        "label": "About Us",
+        "href": "/contact"
+      },
+      {
+        "id": "fc-2",
+        "label": "Contact Us",
+        "href": "/contact"
+      },
+      {
+        "id": "fc-3",
+        "label": "Store Locations",
+        "href": "/contact"
+      },
+      {
+        "id": "fc-4",
+        "label": "Our Story",
+        "href": "/contact"
+      }
+    ]
+  },
+  {
+    "id": "menu-footer-policies",
+    "name": "Footer Policies Menu",
+    "location": "footer_policies",
+    "items": [
+      {
+        "id": "fp-1",
+        "label": "Terms of Service",
+        "href": "/terms/of/services"
+      },
+      {
+        "id": "fp-2",
+        "label": "Privacy Policy",
+        "href": "/privacy/policy"
+      },
+      {
+        "id": "fp-3",
+        "label": "Shipping Policy",
+        "href": "/shipping/policy"
+      },
+      {
+        "id": "fp-4",
+        "label": "Return Policy",
+        "href": "/return/policy"
+      },
+      {
+        "id": "fp-5",
+        "label": "FAQ",
+        "href": "/faq"
+      }
+    ]
+  },
+  {
+    "id": "menu-footer-quick",
+    "name": "Footer Quick Links Menu",
+    "location": "footer_quick",
+    "items": [
+      {
+        "id": "fq-1",
+        "label": "Track Your Order",
+        "href": "/track/order"
+      },
+      {
+        "id": "fq-2",
+        "label": "My Wishlist",
+        "href": "/my/wishlists"
+      },
+      {
+        "id": "fq-3",
+        "label": "Order History",
+        "href": "/my/orders"
+      },
+      {
+        "id": "fq-4",
+        "label": "Login / Register",
+        "href": "/login"
+      }
+    ]
+  }
+]

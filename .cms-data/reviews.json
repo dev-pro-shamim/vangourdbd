@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rev-1",
+    "productId": "two-quater-black-27118",
+    "productName": "Two Quater Black",
+    "customerName": "Sabbir Hossain",
+    "customerEmail": "sabbir@gmail.com",
+    "rating": 5,
+    "reviewText": "Material quality is out of this world! The deep pockets and ripstop stitching feel very durable.",
+    "status": "Approved",
+    "isVerifiedPurchase": true,
+    "adminReply": "Thank you Sabbir! We take utmost care in our tactical fabric selection.",
+    "createdAt": "2026-10-15T14:30:00Z"
+  },
+  {
+    "id": "rev-2",
+    "productId": "polo-navy-blue-27117",
+    "productName": "Polo Navy Blue",
+    "customerName": "Tanvir Chowdhury",
+    "customerEmail": "tanvir@outlook.com",
+    "rating": 5,
+    "reviewText": "Fitting is 10/10. Collar doesn't curl after washing. Highly recommended brand.",
+    "status": "Approved",
+    "isVerifiedPurchase": true,
+    "createdAt": "2026-10-22T10:15:00Z"
+  },
+  {
+    "id": "rev-3",
+    "productId": "tactical-jogger-olive-27119",
+    "productName": "Tactical Jogger Olive",
+    "customerName": "Kamrul Hasan",
+    "rating": 4,
+    "reviewText": "Looks exactly like the reference pictures. Comfortable waist elastic.",
+    "status": "Approved",
+    "isVerifiedPurchase": true,
+    "createdAt": "2026-10-29T18:00:00Z"
+  }
+]

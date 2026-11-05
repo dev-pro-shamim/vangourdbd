@@ -1,0 +1,81 @@
+[
+  {
+    "id": "cust-1793871957059",
+    "name": "Mahmud Hasan",
+    "phone": "01876543210",
+    "addresses": [
+      "House 45, Road 7, Banani"
+    ],
+    "orderCount": 1,
+    "lifetimeValue": 1770,
+    "status": "Active",
+    "createdAt": "2026-11-05T09:45:57.059Z"
+  },
+  {
+    "id": "cust-1793868462293",
+    "name": "Fahim Shahriar",
+    "phone": "01755112233",
+    "email": "fahim@gmail.com",
+    "addresses": [
+      "House 10, Road 4, Sector 7, Uttara, Dhaka"
+    ],
+    "orderCount": 4,
+    "lifetimeValue": 7880,
+    "status": "Active",
+    "createdAt": "2026-11-05T08:47:42.293Z"
+  },
+  {
+    "id": "cust-1",
+    "name": "Sabbir Hossain",
+    "phone": "01711002233",
+    "email": "sabbir@gmail.com",
+    "addresses": [
+      "House 14, Road 5, Dhanmondi, Dhaka"
+    ],
+    "orderCount": 5,
+    "lifetimeValue": 8450,
+    "status": "VIP",
+    "notes": "Regular high-value customer. Prefers XL sizes.",
+    "createdAt": "2026-04-10T00:00:00Z"
+  },
+  {
+    "id": "cust-2",
+    "name": "Nayeem Rahman",
+    "phone": "01819556677",
+    "email": "nayeem.rahman@yahoo.com",
+    "addresses": [
+      "Flat 4B, Green View Tower, GEC Circle, Chittagong"
+    ],
+    "orderCount": 3,
+    "lifetimeValue": 4720,
+    "status": "Active",
+    "notes": "Prompt delivery receiver.",
+    "createdAt": "2026-06-18T00:00:00Z"
+  },
+  {
+    "id": "cust-3",
+    "name": "Rifat Hasan",
+    "phone": "01999887766",
+    "email": "rifat@hotmail.com",
+    "addresses": [
+      "Uposhohor, Sylhet"
+    ],
+    "orderCount": 2,
+    "lifetimeValue": 2600,
+    "status": "Active",
+    "createdAt": "2026-08-22T00:00:00Z"
+  },
+  {
+    "id": "cust-4",
+    "name": "Suspicious Tester",
+    "phone": "01300000000",
+    "addresses": [
+      "Unknown Fake Address, Dhaka"
+    ],
+    "orderCount": 4,
+    "lifetimeValue": 0,
+    "status": "Blocked",
+    "notes": "Multiple refused parcels and fake COD bookings.",
+    "createdAt": "2026-09-01T00:00:00Z"
+  }
+]

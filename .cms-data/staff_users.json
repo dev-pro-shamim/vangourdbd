@@ -1,0 +1,33 @@
+[
+  {
+    "id": "user-super-1",
+    "name": "Shahnawaz Shamim",
+    "email": "admin@vanguardbd.com",
+    "passwordHash": "$2a$10$YourHashedPasswordHereOrBcryptPlaceholder12345",
+    "roleId": "role-super-admin",
+    "roleName": "Super Admin",
+    "isActive": true,
+    "lastLogin": "2026-11-05T12:30:00Z",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "user-staff-2",
+    "name": "Tanvir Ahmed",
+    "email": "orders@vanguardbd.com",
+    "roleId": "role-order-manager",
+    "roleName": "Order Manager",
+    "isActive": true,
+    "lastLogin": "2026-11-05T11:15:00Z",
+    "createdAt": "2026-02-15T00:00:00Z"
+  },
+  {
+    "id": "user-staff-3",
+    "name": "Rafiqul Islam",
+    "email": "warehouse@vanguardbd.com",
+    "roleId": "role-inventory-manager",
+    "roleName": "Inventory Manager",
+    "isActive": true,
+    "lastLogin": "2026-11-05T09:40:00Z",
+    "createdAt": "2026-03-01T00:00:00Z"
+  }
+]

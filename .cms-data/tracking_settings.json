@@ -1,0 +1,21 @@
+{
+  "metaPixel": {
+    "isEnabled": true,
+    "pixelId": "982736451029384",
+    "capiToken": "EAABs98234kjhsdf98234sdfkjhsdf98234",
+    "testEventCode": "TEST99281",
+    "enabledEvents": {
+      "pageView": true,
+      "viewContent": true,
+      "search": true,
+      "addToCart": true,
+      "initiateCheckout": true,
+      "purchase": true
+    }
+  },
+  "gtm": {
+    "isEnabled": true,
+    "containerId": "GTM-VG8892A",
+    "trackEcommerce": true
+  }
+}

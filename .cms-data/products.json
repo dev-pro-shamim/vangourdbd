@@ -1,0 +1,2589 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Two Quater (Black) 27118",
+    "slug": "two-quater-black-27118",
+    "sku": "CMD-1000",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": false,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/DCQSi1789462944-light-2590x3625.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1a1a1a"
+    ],
+    "stockQuantity": 72,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 15,
+    "seoTitle": "Two Quater (Black) 27118 - VANGUARD BD",
+    "seoDescription": "Buy Two Quater (Black) 27118 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/DCQSi1789462944-light-2590x3625.webp"
+  },
+  {
+    "id": "prod-2",
+    "name": "Commando Acid Wash Vest Light Khaki- 28068",
+    "slug": "commando-acid-wash-vest-light-khaki-28068",
+    "sku": "CMD-1001",
+    "category": "Vest",
+    "categorySlug": "vest",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": false,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/SAa2b1785410492-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#c3b091",
+      "#8b7d6b"
+    ],
+    "stockQuantity": 30,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "vest",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 16,
+    "seoTitle": "Commando Acid Wash Vest Light Khaki- 28068 - VANGUARD BD",
+    "seoDescription": "Buy Commando Acid Wash Vest Light Khaki- 28068 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/SAa2b1785410492-light-690x966.jpg"
+  },
+  {
+    "id": "prod-3",
+    "name": "Tactical Inner Shorts (Khaki) 27099",
+    "slug": "tactical-inner-shorts-khaki-27099",
+    "sku": "CMD-1002",
+    "category": "Shorts",
+    "categorySlug": "shorts",
+    "price": 1509,
+    "compareAtPrice": 1688,
+    "discountPercentage": 11,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/b5zDi1787037850-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#c3b091",
+      "#8b7d6b"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "shorts",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 17,
+    "seoTitle": "Tactical Inner Shorts (Khaki) 27099 - VANGUARD BD",
+    "seoDescription": "Buy Tactical Inner Shorts (Khaki) 27099 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/b5zDi1787037850-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-4",
+    "name": "Commando Tactical Vest Grey- 28052",
+    "slug": "commando-tactical-vest-grey-28052",
+    "sku": "CMD-1003",
+    "category": "Vest",
+    "categorySlug": "vest",
+    "price": 890,
+    "compareAtPrice": 1113,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/e8YOr1785394015-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#808080"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "vest",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 18,
+    "seoTitle": "Commando Tactical Vest Grey- 28052 - VANGUARD BD",
+    "seoDescription": "Buy Commando Tactical Vest Grey- 28052 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/e8YOr1785394015-light-690x966.jpg"
+  },
+  {
+    "id": "prod-5",
+    "name": "Commando Tactical Vest Brown- 28053",
+    "slug": "tactical-vest-brown-28053",
+    "sku": "CMD-1004",
+    "category": "Vest",
+    "categorySlug": "vest",
+    "price": 890,
+    "compareAtPrice": 890,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/FXES21785395270-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#654321"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "vest",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 19,
+    "seoTitle": "Commando Tactical Vest Brown- 28053 - VANGUARD BD",
+    "seoDescription": "Buy Commando Tactical Vest Brown- 28053 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/FXES21785395270-light-690x966.jpg"
+  },
+  {
+    "id": "prod-6",
+    "name": "Commando Tactical Vest White- 28054",
+    "slug": "commando-tactical-vest-white-28054",
+    "sku": "CMD-1005",
+    "category": "Vest",
+    "categorySlug": "vest",
+    "price": 890,
+    "compareAtPrice": 1113,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/GJOZw1785403147-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#f8f8f8"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "vest",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 20,
+    "seoTitle": "Commando Tactical Vest White- 28054 - VANGUARD BD",
+    "seoDescription": "Buy Commando Tactical Vest White- 28054 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/GJOZw1785403147-light-690x966.jpg"
+  },
+  {
+    "id": "prod-7",
+    "name": "Two Quater (Green) 27109",
+    "slug": "two-quater-green-27109",
+    "sku": "CMD-1006",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/WJXQM1789453796-light-2857x4000.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#556b2f"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 21,
+    "seoTitle": "Two Quater (Green) 27109 - VANGUARD BD",
+    "seoDescription": "Buy Two Quater (Green) 27109 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/WJXQM1789453796-light-2857x4000.webp"
+  },
+  {
+    "id": "prod-8",
+    "name": "Shorts Inner Shorts (Navy) 27065",
+    "slug": "shorts-inner-shorts-navy-27065",
+    "sku": "CMD-1007",
+    "category": "Shorts",
+    "categorySlug": "shorts",
+    "price": 1390,
+    "compareAtPrice": 1738,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/l1IDR1787037505-dark-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "shorts",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 22,
+    "seoTitle": "Shorts Inner Shorts (Navy) 27065 - VANGUARD BD",
+    "seoDescription": "Buy Shorts Inner Shorts (Navy) 27065 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/l1IDR1787037505-dark-690x966.png"
+  },
+  {
+    "id": "prod-9",
+    "name": "Two Quater (Light Olive) 27113",
+    "slug": "two-quater-light-olive-27113",
+    "sku": "CMD-1008",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/v00eP1789463305-light-2527x3537.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#556b2f"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 23,
+    "seoTitle": "Two Quater (Light Olive) 27113 - VANGUARD BD",
+    "seoDescription": "Buy Two Quater (Light Olive) 27113 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/v00eP1789463305-light-2527x3537.webp"
+  },
+  {
+    "id": "prod-10",
+    "name": "Commando Acid Wash Vest Beige- 28067",
+    "slug": "commando-acid-wash-vest-beige-28067",
+    "sku": "CMD-1009",
+    "category": "Vest",
+    "categorySlug": "vest",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/tbiAZ1785409747-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#c3b091",
+      "#8b7d6b"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "vest",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 24,
+    "seoTitle": "Commando Acid Wash Vest Beige- 28067 - VANGUARD BD",
+    "seoDescription": "Buy Commando Acid Wash Vest Beige- 28067 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/tbiAZ1785409747-light-690x966.jpg"
+  },
+  {
+    "id": "prod-11",
+    "name": "Baggy Denim (Dk Blue) 55018",
+    "slug": "baggy-denim-dk-blue-55018",
+    "sku": "CMD-1010",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1192,
+    "compareAtPrice": 1690,
+    "discountPercentage": 29,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/iEoiF1787552095-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 25,
+    "seoTitle": "Baggy Denim (Dk Blue) 55018 - VANGUARD BD",
+    "seoDescription": "Buy Baggy Denim (Dk Blue) 55018 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/iEoiF1787552095-light-690x966.png"
+  },
+  {
+    "id": "prod-12",
+    "name": "Cargo Chinos Slim fit six Pocket with chain -53003",
+    "slug": "cargo-chinos-slim-fit-six-pocket-with-chain-53003",
+    "sku": "CMD-1011",
+    "category": "Pant",
+    "categorySlug": "pant",
+    "price": 1672,
+    "compareAtPrice": 2090,
+    "discountPercentage": 20,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/CuaJU1787493449-dark-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 26,
+    "seoTitle": "Cargo Chinos Slim fit six Pocket with chain -53003 - VANGUARD BD",
+    "seoDescription": "Buy Cargo Chinos Slim fit six Pocket with chain -53003 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/CuaJU1787493449-dark-690x966.png"
+  },
+  {
+    "id": "prod-13",
+    "name": "Premium Bootcut Denim (Vintage Wash Blue)– 51003",
+    "slug": "premium-bootcut-denim-vintage-wash-blue-51003",
+    "sku": "CMD-1012",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1690,
+    "compareAtPrice": 2113,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/d0rY21784616228-light-690x966.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 27,
+    "seoTitle": "Premium Bootcut Denim (Vintage Wash Blue)– 51003 - VANGUARD BD",
+    "seoDescription": "Buy Premium Bootcut Denim (Vintage Wash Blue)– 51003 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/d0rY21784616228-light-690x966.webp"
+  },
+  {
+    "id": "prod-14",
+    "name": "Bootcut Denim (Stonewash Blue) – 51009",
+    "slug": "bootcut-denim-stonewash-blue-51009",
+    "sku": "CMD-1013",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1690,
+    "compareAtPrice": 2113,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/1tIg71784619728-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 28,
+    "seoTitle": "Bootcut Denim (Stonewash Blue) – 51009 - VANGUARD BD",
+    "seoDescription": "Buy Bootcut Denim (Stonewash Blue) – 51009 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/1tIg71784619728-light-690x966.jpg"
+  },
+  {
+    "id": "prod-15",
+    "name": "Bootcut Denim Jeans (Dirty Yellow Wash)– 51010",
+    "slug": "bootcut-denim-jeans-dirty-yellow-wash-51010",
+    "sku": "CMD-1014",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1790,
+    "compareAtPrice": 1990,
+    "discountPercentage": 10,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/CAVgh1784620745-light-690x966.jpeg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 29,
+    "seoTitle": "Bootcut Denim Jeans (Dirty Yellow Wash)– 51010 - VANGUARD BD",
+    "seoDescription": "Buy Bootcut Denim Jeans (Dirty Yellow Wash)– 51010 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/CAVgh1784620745-light-690x966.jpeg"
+  },
+  {
+    "id": "prod-16",
+    "name": "Slim Fit Cargo Denim (Acid Wash Blue)– 52011",
+    "slug": "slim-fit-cargo-denim-acid-wash-blue-52011",
+    "sku": "CMD-1015",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 2290,
+    "compareAtPrice": 2863,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/38bb31784794944-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 30,
+    "seoTitle": "Slim Fit Cargo Denim (Acid Wash Blue)– 52011 - VANGUARD BD",
+    "seoDescription": "Buy Slim Fit Cargo Denim (Acid Wash Blue)– 52011 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/38bb31784794944-light-690x966.jpg"
+  },
+  {
+    "id": "prod-17",
+    "name": "Denim Pant - Commando Baggy Fit - 55004",
+    "slug": "denim-pant-commando-baggy-fit-55004",
+    "sku": "CMD-1016",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1620,
+    "compareAtPrice": 2025,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/FBAE61789643368-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 31,
+    "seoTitle": "Denim Pant - Commando Baggy Fit - 55004 - VANGUARD BD",
+    "seoDescription": "Buy Denim Pant - Commando Baggy Fit - 55004 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/FBAE61789643368-light-690x966.jpg"
+  },
+  {
+    "id": "prod-18",
+    "name": "Baggy Denim (Light Acid) 55001",
+    "slug": "baggy-denim-light-acid-55001",
+    "sku": "CMD-1017",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1192,
+    "compareAtPrice": 1690,
+    "discountPercentage": 29,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/SnaFc1787551190-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 32,
+    "seoTitle": "Baggy Denim (Light Acid) 55001 - VANGUARD BD",
+    "seoDescription": "Buy Baggy Denim (Light Acid) 55001 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/SnaFc1787551190-light-690x966.png"
+  },
+  {
+    "id": "prod-19",
+    "name": "Baggy Denim (Dk Blue) 55005",
+    "slug": "baggy-denim-dk-blue-55005",
+    "sku": "CMD-1018",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1620,
+    "compareAtPrice": 2025,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/KM5Hm1787553868-light-1463x2048.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 33,
+    "seoTitle": "Baggy Denim (Dk Blue) 55005 - VANGUARD BD",
+    "seoDescription": "Buy Baggy Denim (Dk Blue) 55005 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/KM5Hm1787553868-light-1463x2048.jpg"
+  },
+  {
+    "id": "prod-20",
+    "name": "Straight Fit Cargo Denim (Ice Blue Wash)– 54005",
+    "slug": "straight-fit-cargo-denim-pant-54005",
+    "sku": "CMD-1019",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 2490,
+    "compareAtPrice": 3113,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/sUNTL1784801696-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 14,
+    "seoTitle": "Straight Fit Cargo Denim (Ice Blue Wash)– 54005 - VANGUARD BD",
+    "seoDescription": "Buy Straight Fit Cargo Denim (Ice Blue Wash)– 54005 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/sUNTL1784801696-light-690x966.jpg"
+  },
+  {
+    "id": "prod-21",
+    "name": "Denim Pant - Baggy Fit - 55002",
+    "slug": "denim-pant-baggy-fit-55002",
+    "sku": "CMD-1020",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1192,
+    "compareAtPrice": 1690,
+    "discountPercentage": 29,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/vtvUM1787550925-light-1463x2048.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 15,
+    "seoTitle": "Denim Pant - Baggy Fit - 55002 - VANGUARD BD",
+    "seoDescription": "Buy Denim Pant - Baggy Fit - 55002 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/vtvUM1787550925-light-1463x2048.jpg"
+  },
+  {
+    "id": "prod-22",
+    "name": "Denim Pant - Baggy Fit - 55003",
+    "slug": "denim-pant-baggy-fit-55003",
+    "sku": "CMD-1021",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1192,
+    "compareAtPrice": 1690,
+    "discountPercentage": 29,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/u4yoI1787549976-light-1463x2048.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 16,
+    "seoTitle": "Denim Pant - Baggy Fit - 55003 - VANGUARD BD",
+    "seoDescription": "Buy Denim Pant - Baggy Fit - 55003 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/u4yoI1787549976-light-1463x2048.jpg"
+  },
+  {
+    "id": "prod-23",
+    "name": "Straight Fit Denim Pant - 54010",
+    "slug": "straight-fit-denim-pant-54010",
+    "sku": "CMD-1022",
+    "category": "Denim Pant",
+    "categorySlug": "denim",
+    "price": 1672,
+    "compareAtPrice": 2090,
+    "discountPercentage": 20,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/Wrirz1787494436-light-1371x1920.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "denim pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 17,
+    "seoTitle": "Straight Fit Denim Pant - 54010 - VANGUARD BD",
+    "seoDescription": "Buy Straight Fit Denim Pant - 54010 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/Wrirz1787494436-light-1371x1920.jpg"
+  },
+  {
+    "id": "prod-24",
+    "name": "Commando Cargo Chinos Slim Fit Six Pocket - 54006",
+    "slug": "commando-cargo-chinos-slim-fit-six-pocket-54006",
+    "sku": "CMD-1023",
+    "category": "Pant",
+    "categorySlug": "pant",
+    "price": 1790,
+    "compareAtPrice": 1990,
+    "discountPercentage": 10,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/8uNTT1787494199-dark-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "pant",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 18,
+    "seoTitle": "Commando Cargo Chinos Slim Fit Six Pocket - 54006 - VANGUARD BD",
+    "seoDescription": "Buy Commando Cargo Chinos Slim Fit Six Pocket - 54006 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/8uNTT1787494199-dark-690x966.png"
+  },
+  {
+    "id": "prod-25",
+    "name": "OS. Washed Tactical Polo (Dark Nevy) - 36241",
+    "slug": "OS. Washed Tactical Polo (Dark Nevy) - 36241",
+    "sku": "CMD-1024",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1790,
+    "compareAtPrice": 2238,
+    "discountPercentage": 0,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/bzyUA1790509415-light-4464x6250.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 19,
+    "seoTitle": "OS. Washed Tactical Polo (Dark Nevy) - 36241 - VANGUARD BD",
+    "seoDescription": "Buy OS. Washed Tactical Polo (Dark Nevy) - 36241 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/bzyUA1790509415-light-4464x6250.jpg"
+  },
+  {
+    "id": "prod-26",
+    "name": "OS. Washed Tactical Polo - 36240 (Dark Grey)",
+    "slug": "os-washed-tactical-polo-36240-dark-grey",
+    "sku": "CMD-1025",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1790,
+    "compareAtPrice": 2238,
+    "discountPercentage": 0,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/IfpZz1790499201-light-4464x6250.jpeg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#808080"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 20,
+    "seoTitle": "OS. Washed Tactical Polo - 36240 (Dark Grey) - VANGUARD BD",
+    "seoDescription": "Buy OS. Washed Tactical Polo - 36240 (Dark Grey) online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/IfpZz1790499201-light-4464x6250.jpeg"
+  },
+  {
+    "id": "prod-27",
+    "name": "Polo Shirt (Blue) 36223",
+    "slug": "polo-shirt-blue-36223-2",
+    "sku": "CMD-1026",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/Cusmt1787635711-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 21,
+    "seoTitle": "Polo Shirt (Blue) 36223 - VANGUARD BD",
+    "seoDescription": "Buy Polo Shirt (Blue) 36223 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/Cusmt1787635711-light-690x966.jpg"
+  },
+  {
+    "id": "prod-28",
+    "name": "Regular Fit Polo - 36025",
+    "slug": "regular-fit-polo-36025",
+    "sku": "CMD-1027",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1590,
+    "compareAtPrice": 1988,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/1rE6I1787579794-light-731x1024.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 22,
+    "seoTitle": "Regular Fit Polo - 36025 - VANGUARD BD",
+    "seoDescription": "Buy Regular Fit Polo - 36025 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/1rE6I1787579794-light-731x1024.png"
+  },
+  {
+    "id": "prod-29",
+    "name": "Polo Shirt (Lt Khaki) 36026",
+    "slug": "polo-shirt-lt-khaki-36026",
+    "sku": "CMD-1028",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1590,
+    "compareAtPrice": 1988,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/m894c1787579611-light-731x1024.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#c3b091",
+      "#8b7d6b"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 23,
+    "seoTitle": "Polo Shirt (Lt Khaki) 36026 - VANGUARD BD",
+    "seoDescription": "Buy Polo Shirt (Lt Khaki) 36026 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/m894c1787579611-light-731x1024.png"
+  },
+  {
+    "id": "prod-30",
+    "name": "Reguler Fit Polo - 36022",
+    "slug": "reguler-fit-polo-36022",
+    "sku": "CMD-1029",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1590,
+    "compareAtPrice": 1988,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/6iCJj1787579314-light-731x1024.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 24,
+    "seoTitle": "Reguler Fit Polo - 36022 - VANGUARD BD",
+    "seoDescription": "Buy Reguler Fit Polo - 36022 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/6iCJj1787579314-light-731x1024.png"
+  },
+  {
+    "id": "prod-31",
+    "name": "High Neck Polo Shirt (Black) 36209",
+    "slug": "high-neck-polo-shirt-black-36209",
+    "sku": "CMD-1030",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1490,
+    "compareAtPrice": 1863,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/hlWA51787578677-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1a1a1a"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 25,
+    "seoTitle": "High Neck Polo Shirt (Black) 36209 - VANGUARD BD",
+    "seoDescription": "Buy High Neck Polo Shirt (Black) 36209 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/hlWA51787578677-light-690x966.png"
+  },
+  {
+    "id": "prod-32",
+    "name": "High Neck Polo Shirt (Olive) 36210",
+    "slug": "high-neck-polo-shirt-olive-36210",
+    "sku": "CMD-1031",
+    "category": "Polo Shirt",
+    "categorySlug": "polo-shirt",
+    "price": 1490,
+    "compareAtPrice": 1863,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/xaTkf1787578482-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#556b2f"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "polo shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 26,
+    "seoTitle": "High Neck Polo Shirt (Olive) 36210 - VANGUARD BD",
+    "seoDescription": "Buy High Neck Polo Shirt (Olive) 36210 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/xaTkf1787578482-light-690x966.png"
+  },
+  {
+    "id": "prod-33",
+    "name": "Two Quater (Blue) 27115",
+    "slug": "two-quater-blue-27115",
+    "sku": "CMD-1032",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/bH5eR1789463178-light-2501x3502.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 27,
+    "seoTitle": "Two Quater (Blue) 27115 - VANGUARD BD",
+    "seoDescription": "Buy Two Quater (Blue) 27115 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/bH5eR1789463178-light-2501x3502.webp"
+  },
+  {
+    "id": "prod-34",
+    "name": "Two Quater (Charcoal) 27111",
+    "slug": "two-quater-charcoal-27111",
+    "sku": "CMD-1033",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/3veBh1789454191-light-2902x4064.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 28,
+    "seoTitle": "Two Quater (Charcoal) 27111 - VANGUARD BD",
+    "seoDescription": "Buy Two Quater (Charcoal) 27111 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/3veBh1789454191-light-2902x4064.webp"
+  },
+  {
+    "id": "prod-35",
+    "name": "Tactical Inner Shorts (Black) 27097",
+    "slug": "tactical-inner-shorts-black-27097",
+    "sku": "CMD-1034",
+    "category": "Shorts",
+    "categorySlug": "shorts",
+    "price": 1509,
+    "compareAtPrice": 1688,
+    "discountPercentage": 11,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/yJi5M1787722545-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1a1a1a"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "shorts",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 29,
+    "seoTitle": "Tactical Inner Shorts (Black) 27097 - VANGUARD BD",
+    "seoDescription": "Buy Tactical Inner Shorts (Black) 27097 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/yJi5M1787722545-light-690x966.jpg"
+  },
+  {
+    "id": "prod-36",
+    "name": "Two Quarter (Anthra) 27057",
+    "slug": "two-quarter-anthra-27057",
+    "sku": "CMD-1035",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1030,
+    "compareAtPrice": 1290,
+    "discountPercentage": 20,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/ajjJY1787511819-dark-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 30,
+    "seoTitle": "Two Quarter (Anthra) 27057 - VANGUARD BD",
+    "seoDescription": "Buy Two Quarter (Anthra) 27057 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/ajjJY1787511819-dark-690x966.png"
+  },
+  {
+    "id": "prod-37",
+    "name": "Tactica Inner Shorts (Olive) 27098",
+    "slug": "tactica-inner-shorts-olive-27098",
+    "sku": "CMD-1036",
+    "category": "Shorts",
+    "categorySlug": "shorts",
+    "price": 1509,
+    "compareAtPrice": 1688,
+    "discountPercentage": 11,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/G0w2J1787037773-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#556b2f"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "shorts",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 31,
+    "seoTitle": "Tactica Inner Shorts (Olive) 27098 - VANGUARD BD",
+    "seoDescription": "Buy Tactica Inner Shorts (Olive) 27098 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/G0w2J1787037773-light-690x966.jpg"
+  },
+  {
+    "id": "prod-38",
+    "name": "Tactical Inner Shorts (Maroon) 27096",
+    "slug": "tactical-inner-shorts-maroon-27096",
+    "sku": "CMD-1037",
+    "category": "Shorts",
+    "categorySlug": "shorts",
+    "price": 1509,
+    "compareAtPrice": 1688,
+    "discountPercentage": 11,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/RiLHV1784296165-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "shorts",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 32,
+    "seoTitle": "Tactical Inner Shorts (Maroon) 27096 - VANGUARD BD",
+    "seoDescription": "Buy Tactical Inner Shorts (Maroon) 27096 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/RiLHV1784296165-light-690x966.jpg"
+  },
+  {
+    "id": "prod-39",
+    "name": "Long Sleeveless Gown (Black) 30003",
+    "slug": "long-sleeveless-gown-black-30003",
+    "sku": "CMD-1038",
+    "category": "Woman's Wear",
+    "categorySlug": "Woman's-Wear",
+    "price": 1690,
+    "compareAtPrice": 2113,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/hC9Jj1790679147-light-4464x6250.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1a1a1a"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "woman's wear",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 33,
+    "seoTitle": "Long Sleeveless Gown (Black) 30003 - VANGUARD BD",
+    "seoDescription": "Buy Long Sleeveless Gown (Black) 30003 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/hC9Jj1790679147-light-4464x6250.jpg"
+  },
+  {
+    "id": "prod-40",
+    "name": "Ladies Long Tops (Off White) - 40004",
+    "slug": "ladies-long-tops-off-white-40004",
+    "sku": "CMD-1039",
+    "category": "Woman's Wear",
+    "categorySlug": "Woman's-Wear",
+    "price": 1790,
+    "compareAtPrice": 2238,
+    "discountPercentage": 0,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/ENkc51790503384-light-4464x6250.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#f8f8f8"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "woman's wear",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 14,
+    "seoTitle": "Ladies Long Tops (Off White) - 40004 - VANGUARD BD",
+    "seoDescription": "Buy Ladies Long Tops (Off White) - 40004 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/ENkc51790503384-light-4464x6250.jpg"
+  },
+  {
+    "id": "prod-41",
+    "name": "Oversized Hoodie Jacket 37020",
+    "slug": "oversized-hoodie-jacket-37020",
+    "sku": "CMD-1040",
+    "category": "Hoodie",
+    "categorySlug": "hoodie",
+    "price": 3090,
+    "compareAtPrice": 3863,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/r3nBT1790060393-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "hoodie",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 15,
+    "seoTitle": "Oversized Hoodie Jacket 37020 - VANGUARD BD",
+    "seoDescription": "Buy Oversized Hoodie Jacket 37020 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/r3nBT1790060393-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-42",
+    "name": "Panjabi (Black) 41294",
+    "slug": "panjabi-black-41294",
+    "sku": "CMD-1041",
+    "category": "Panjabi",
+    "categorySlug": "Panjabi",
+    "price": 4750,
+    "compareAtPrice": 5938,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/qDgEW1789648508-light-690x965.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1a1a1a"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "panjabi",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 16,
+    "seoTitle": "Panjabi (Black) 41294 - VANGUARD BD",
+    "seoDescription": "Buy Panjabi (Black) 41294 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/qDgEW1789648508-light-690x965.jpg"
+  },
+  {
+    "id": "prod-43",
+    "name": "Hoodie Sweat Shirt (Red) 37063",
+    "slug": "hoodie-sweat-shirt-red-37063",
+    "sku": "CMD-1042",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 1990,
+    "compareAtPrice": 2488,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/GsjeC1790061147-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#b22222"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 17,
+    "seoTitle": "Hoodie Sweat Shirt (Red) 37063 - VANGUARD BD",
+    "seoDescription": "Buy Hoodie Sweat Shirt (Red) 37063 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/GsjeC1790061147-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-44",
+    "name": "Sweat Shirt (Brown) 25075",
+    "slug": "sweat-shirt-brown-25075",
+    "sku": "CMD-1043",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 1590,
+    "compareAtPrice": 1988,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/BQTHG1790056569-light-1463x2048.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#654321"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 18,
+    "seoTitle": "Sweat Shirt (Brown) 25075 - VANGUARD BD",
+    "seoDescription": "Buy Sweat Shirt (Brown) 25075 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/BQTHG1790056569-light-1463x2048.jpg"
+  },
+  {
+    "id": "prod-45",
+    "name": "Sweat Shirt (Khaki) 25072",
+    "slug": "sweat-shirt-khaki-25072",
+    "sku": "CMD-1044",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 1590,
+    "compareAtPrice": 1988,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/ffOsD1790056501-light-1463x2048.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#c3b091",
+      "#8b7d6b"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 19,
+    "seoTitle": "Sweat Shirt (Khaki) 25072 - VANGUARD BD",
+    "seoDescription": "Buy Sweat Shirt (Khaki) 25072 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/ffOsD1790056501-light-1463x2048.jpg"
+  },
+  {
+    "id": "prod-46",
+    "name": "Regular Fit Jacket (Off White) 24112",
+    "slug": "regular-fit-jacket-off-white-24112",
+    "sku": "CMD-1045",
+    "category": "Jacket",
+    "categorySlug": "Jacket",
+    "price": 2890,
+    "compareAtPrice": 3613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/UTTRG1790061433-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#f8f8f8"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "jacket",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 20,
+    "seoTitle": "Regular Fit Jacket (Off White) 24112 - VANGUARD BD",
+    "seoDescription": "Buy Regular Fit Jacket (Off White) 24112 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/UTTRG1790061433-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-47",
+    "name": "Regular Fit Jacket (White) 24114",
+    "slug": "regular-fit-jacket-white-24114",
+    "sku": "CMD-1046",
+    "category": "Jacket",
+    "categorySlug": "Jacket",
+    "price": 2890,
+    "compareAtPrice": 3613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/suJk51790061476-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#f8f8f8"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "jacket",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 21,
+    "seoTitle": "Regular Fit Jacket (White) 24114 - VANGUARD BD",
+    "seoDescription": "Buy Regular Fit Jacket (White) 24114 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/suJk51790061476-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-48",
+    "name": "Oversized Hoodie (Black) 37031",
+    "slug": "oversized-hoodie-black-37031",
+    "sku": "CMD-1047",
+    "category": "Hoodie",
+    "categorySlug": "hoodie",
+    "price": 1590,
+    "compareAtPrice": 1988,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/WP3Io1789989165-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1a1a1a"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "hoodie",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 22,
+    "seoTitle": "Oversized Hoodie (Black) 37031 - VANGUARD BD",
+    "seoDescription": "Buy Oversized Hoodie (Black) 37031 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/WP3Io1789989165-light-690x966.jpg"
+  },
+  {
+    "id": "prod-49",
+    "name": "Oversized Hoodie (Lt Khaki) 37038",
+    "slug": "oversized-hoodie-lt-khaki-37038",
+    "sku": "CMD-1048",
+    "category": "Hoodie",
+    "categorySlug": "hoodie",
+    "price": 1590,
+    "compareAtPrice": 1988,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/E8Kpi1789988939-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#c3b091",
+      "#8b7d6b"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "hoodie",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 23,
+    "seoTitle": "Oversized Hoodie (Lt Khaki) 37038 - VANGUARD BD",
+    "seoDescription": "Buy Oversized Hoodie (Lt Khaki) 37038 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/E8Kpi1789988939-light-690x966.jpg"
+  },
+  {
+    "id": "prod-50",
+    "name": "Ladies High Neck Tops (Bottle Green) - 40110",
+    "slug": "ladies-high-neck-tops-bottle-green-40110",
+    "sku": "CMD-1049",
+    "category": "Woman's Wear",
+    "categorySlug": "Woman's-Wear",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/7HNKp1789976155-light-4464x6250.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#556b2f"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "woman's wear",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 24,
+    "seoTitle": "Ladies High Neck Tops (Bottle Green) - 40110 - VANGUARD BD",
+    "seoDescription": "Buy Ladies High Neck Tops (Bottle Green) - 40110 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/7HNKp1789976155-light-4464x6250.jpg"
+  },
+  {
+    "id": "prod-51",
+    "name": "Panjabi (Lt Khaki) 41293",
+    "slug": "panjabi-lt-khaki-41293",
+    "sku": "CMD-1050",
+    "category": "Panjabi",
+    "categorySlug": "Panjabi",
+    "price": 4750,
+    "compareAtPrice": 5938,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/EtA291789647849-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#c3b091",
+      "#8b7d6b"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "panjabi",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 25,
+    "seoTitle": "Panjabi (Lt Khaki) 41293 - VANGUARD BD",
+    "seoDescription": "Buy Panjabi (Lt Khaki) 41293 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/EtA291789647849-light-690x966.jpg"
+  },
+  {
+    "id": "prod-52",
+    "name": "Zipper Hoodie 37016",
+    "slug": "zipper-hoodie-37016",
+    "sku": "CMD-1051",
+    "category": "Hoodie",
+    "categorySlug": "hoodie",
+    "price": 1850,
+    "compareAtPrice": 2313,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/EWyaQ1789890594-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "hoodie",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 26,
+    "seoTitle": "Zipper Hoodie 37016 - VANGUARD BD",
+    "seoDescription": "Buy Zipper Hoodie 37016 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/EWyaQ1789890594-light-690x966.png"
+  },
+  {
+    "id": "prod-53",
+    "name": "Ladies High Neck Tops (Dark Brown) - 40108",
+    "slug": "ladies-high-neck-tops-dark-brown-40108",
+    "sku": "CMD-1052",
+    "category": "Woman's Wear",
+    "categorySlug": "Woman's-Wear",
+    "price": 1290,
+    "compareAtPrice": 1613,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/s6aEg1789975814-light-4464x6250.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#654321"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "woman's wear",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 27,
+    "seoTitle": "Ladies High Neck Tops (Dark Brown) - 40108 - VANGUARD BD",
+    "seoDescription": "Buy Ladies High Neck Tops (Dark Brown) - 40108 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/s6aEg1789975814-light-4464x6250.jpg"
+  },
+  {
+    "id": "prod-54",
+    "name": "Zipper Hoodie 37012",
+    "slug": "zipper-hoodie-37012",
+    "sku": "CMD-1053",
+    "category": "Hoodie",
+    "categorySlug": "hoodie",
+    "price": 1890,
+    "compareAtPrice": 2363,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/wPDxM1789988259-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "hoodie",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 28,
+    "seoTitle": "Zipper Hoodie 37012 - VANGUARD BD",
+    "seoDescription": "Buy Zipper Hoodie 37012 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/wPDxM1789988259-light-690x966.png"
+  },
+  {
+    "id": "prod-55",
+    "name": "Drop Shoulder T-shirt - 33171",
+    "slug": "drop-shoulder-t-shirt-33171",
+    "sku": "CMD-1054",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 890,
+    "compareAtPrice": 1113,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/tTXq01787810355-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 29,
+    "seoTitle": "Drop Shoulder T-shirt - 33171 - VANGUARD BD",
+    "seoDescription": "Buy Drop Shoulder T-shirt - 33171 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/tTXq01787810355-light-690x966.jpg"
+  },
+  {
+    "id": "prod-56",
+    "name": "O.S Acid WashT.S(Coffee)33410",
+    "slug": "os-acid-washtscoffee33410",
+    "sku": "CMD-1055",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1090,
+    "compareAtPrice": 1363,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/q216c1787725245-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 30,
+    "seoTitle": "O.S Acid WashT.S(Coffee)33410 - VANGUARD BD",
+    "seoDescription": "Buy O.S Acid WashT.S(Coffee)33410 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/q216c1787725245-light-690x966.jpg"
+  },
+  {
+    "id": "prod-57",
+    "name": "O.S Acid WashT.S(L.T Brown)33411",
+    "slug": "os-acid-washtslt-brown33411",
+    "sku": "CMD-1056",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1090,
+    "compareAtPrice": 1363,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/Y0W2K1787724915-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#654321"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 31,
+    "seoTitle": "O.S Acid WashT.S(L.T Brown)33411 - VANGUARD BD",
+    "seoDescription": "Buy O.S Acid WashT.S(L.T Brown)33411 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/Y0W2K1787724915-light-690x966.jpg"
+  },
+  {
+    "id": "prod-58",
+    "name": "O.S Acid WashT.S(Brown)33409",
+    "slug": "os-acid-washtsbrown33409",
+    "sku": "CMD-1057",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 1090,
+    "compareAtPrice": 1363,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/bjBsH1787724276-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#654321"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 32,
+    "seoTitle": "O.S Acid WashT.S(Brown)33409 - VANGUARD BD",
+    "seoDescription": "Buy O.S Acid WashT.S(Brown)33409 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/bjBsH1787724276-light-690x966.jpg"
+  },
+  {
+    "id": "prod-59",
+    "name": "Oversized T-Shirt (Anthra) 33192",
+    "slug": "oversized-t-shirt-anthra-33192",
+    "sku": "CMD-1058",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/g9lUL1787689691-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 33,
+    "seoTitle": "Oversized T-Shirt (Anthra) 33192 - VANGUARD BD",
+    "seoDescription": "Buy Oversized T-Shirt (Anthra) 33192 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/g9lUL1787689691-light-690x966.png"
+  },
+  {
+    "id": "prod-60",
+    "name": "Oversized T-Shirt (Ash) 33191",
+    "slug": "oversized-t-shirt-ash-33191",
+    "sku": "CMD-1059",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/4qxzl1787689609-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 14,
+    "seoTitle": "Oversized T-Shirt (Ash) 33191 - VANGUARD BD",
+    "seoDescription": "Buy Oversized T-Shirt (Ash) 33191 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/4qxzl1787689609-light-690x966.png"
+  },
+  {
+    "id": "prod-61",
+    "name": "O/S-T-Shirt(White) 33427",
+    "slug": "os-t-shirtwhite-33427",
+    "sku": "CMD-1060",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/aV4rX1787689118-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#f8f8f8"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 15,
+    "seoTitle": "O/S-T-Shirt(White) 33427 - VANGUARD BD",
+    "seoDescription": "Buy O/S-T-Shirt(White) 33427 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/aV4rX1787689118-light-690x966.jpg"
+  },
+  {
+    "id": "prod-62",
+    "name": "O/S-T-Shirt(Black) 33426",
+    "slug": "os-t-shirtblack-33426",
+    "sku": "CMD-1061",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/dGNd11787688948-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1a1a1a"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 16,
+    "seoTitle": "O/S-T-Shirt(Black) 33426 - VANGUARD BD",
+    "seoDescription": "Buy O/S-T-Shirt(Black) 33426 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/dGNd11787688948-light-690x966.jpg"
+  },
+  {
+    "id": "prod-63",
+    "name": "O/S Duying Acid Wash T.S(Coffee) 33419",
+    "slug": "os-duying-acid-wash-tscoffee-33419",
+    "sku": "CMD-1062",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/3kNlz1787724573-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 17,
+    "seoTitle": "O/S Duying Acid Wash T.S(Coffee) 33419 - VANGUARD BD",
+    "seoDescription": "Buy O/S Duying Acid Wash T.S(Coffee) 33419 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/3kNlz1787724573-light-690x966.png"
+  },
+  {
+    "id": "prod-64",
+    "name": "O/S Duying Acid Wash T.S(L.T Past)33418",
+    "slug": "os-duying-acid-wash-tslt-past33418",
+    "sku": "CMD-1063",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/vuTww1787748605-light-690x966.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 18,
+    "seoTitle": "O/S Duying Acid Wash T.S(L.T Past)33418 - VANGUARD BD",
+    "seoDescription": "Buy O/S Duying Acid Wash T.S(L.T Past)33418 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/vuTww1787748605-light-690x966.png"
+  },
+  {
+    "id": "prod-65",
+    "name": "O/S Duying Acid Wash T.S(Ash) 33417",
+    "slug": "os-duying-acid-wash-tsash-33417",
+    "sku": "CMD-1064",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/PJjVM1788770618-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 19,
+    "seoTitle": "O/S Duying Acid Wash T.S(Ash) 33417 - VANGUARD BD",
+    "seoDescription": "Buy O/S Duying Acid Wash T.S(Ash) 33417 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/PJjVM1788770618-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-66",
+    "name": "O/S Duying Acid Wash T.S(Yellow) 33416",
+    "slug": "os-duying-acid-wash-tsyellow-33416",
+    "sku": "CMD-1065",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/zRCOH1790166566-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 20,
+    "seoTitle": "O/S Duying Acid Wash T.S(Yellow) 33416 - VANGUARD BD",
+    "seoDescription": "Buy O/S Duying Acid Wash T.S(Yellow) 33416 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/zRCOH1790166566-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-67",
+    "name": "Oversized T-Shirt (Sky Blue) 33264",
+    "slug": "oversized-t-shirt-sky-blue-33264",
+    "sku": "CMD-1066",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 1090,
+    "compareAtPrice": 1363,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/DDjn71788770788-light-1500x2100.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#1b2e4b",
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 21,
+    "seoTitle": "Oversized T-Shirt (Sky Blue) 33264 - VANGUARD BD",
+    "seoDescription": "Buy Oversized T-Shirt (Sky Blue) 33264 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/DDjn71788770788-light-1500x2100.jpg"
+  },
+  {
+    "id": "prod-68",
+    "name": "O/S Duying Acid Wash T.S(Ash)33413",
+    "slug": "os-duying-acid-wash-tsash33413",
+    "sku": "CMD-1067",
+    "category": "Men",
+    "categorySlug": "Men",
+    "price": 990,
+    "compareAtPrice": 1238,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/HUDs51787721260-light-690x966.jpg"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "men",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 22,
+    "seoTitle": "O/S Duying Acid Wash T.S(Ash)33413 - VANGUARD BD",
+    "seoDescription": "Buy O/S Duying Acid Wash T.S(Ash)33413 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/HUDs51787721260-light-690x966.jpg"
+  },
+  {
+    "id": "prod-69",
+    "name": "Oversized T-Shirt (Anthra) 33160",
+    "slug": "oversized-t-shirt-anthra-33160",
+    "sku": "CMD-1068",
+    "category": "T-Shirt",
+    "categorySlug": "T-Shirt",
+    "price": 520,
+    "compareAtPrice": 790,
+    "discountPercentage": 34,
+    "isStockOut": true,
+    "isFeatured": false,
+    "images": [
+      "/assets/products/G4Au81787684538-dark-686x961.png"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "#111111"
+    ],
+    "stockQuantity": 0,
+    "description": "Crafted from premium heavy-weight fabric engineered for ultimate comfort, durability, and tactical aesthetics. Features reinforced stitching, breathable weave, and signature styling that stands the test of time.",
+    "tags": [
+      "featured",
+      "t-shirt",
+      "men",
+      "lifestyle"
+    ],
+    "rating": 5,
+    "reviewCount": 23,
+    "seoTitle": "Oversized T-Shirt (Anthra) 33160 - VANGUARD BD",
+    "seoDescription": "Buy Oversized T-Shirt (Anthra) 33160 online at best price in Bangladesh from VANGUARD BD. High quality fabric with fast home delivery.",
+    "image": "/assets/products/G4Au81787684538-dark-686x961.png"
+  }
+]

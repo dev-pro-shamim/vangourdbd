@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ip-1793868462431",
+    "ip": "192.168.1.100",
+    "reason": "Test block from automated suite",
+    "isManual": true,
+    "createdAt": "2026-11-05T08:47:42.431Z"
+  },
+  {
+    "id": "ip-block-1",
+    "ip": "185.220.101.45",
+    "reason": "Automated fake order submission bot detected",
+    "isManual": false,
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "createdAt": "2026-10-01T00:00:00Z"
+  }
+]

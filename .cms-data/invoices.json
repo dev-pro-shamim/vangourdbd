@@ -1,0 +1,290 @@
+[
+  {
+    "id": "inv-ord-1793871965442",
+    "invoiceNumber": "INV-VNG-38576",
+    "orderNumber": "VNG-38576",
+    "orderId": "ord-1793871965442",
+    "date": "2026-11-05T09:46:05.442Z",
+    "customerName": "Fahim Shahriar",
+    "customerPhone": "01755112233",
+    "customerAddress": "House 10, Road 4, Sector 7, Uttara, Dhaka, Dhaka",
+    "items": [
+      {
+        "productId": "two-quater-black-27118",
+        "name": "Two Quater Black",
+        "slug": "two-quater-black-27118",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-1.jpg",
+        "price": 950,
+        "quantity": 2,
+        "size": "L",
+        "color": "Black"
+      }
+    ],
+    "subtotal": 1900,
+    "discount": 0,
+    "shippingFee": 70,
+    "total": 1970,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "storeBranding": {
+      "name": "VANGUARD",
+      "logoUrl": "",
+      "phone": "+880 1756-096104",
+      "email": "support@vanguardbd.com",
+      "address": "House 12, Road 4, Sector 3, Uttara, Dhaka-1230, Bangladesh"
+    }
+  },
+  {
+    "id": "inv-ord-1793871957049",
+    "invoiceNumber": "INV-VNG-26640",
+    "orderNumber": "VNG-26640",
+    "orderId": "ord-1793871957049",
+    "date": "2026-11-05T09:45:57.049Z",
+    "customerName": "Mahmud Hasan",
+    "customerPhone": "01876543210",
+    "customerAddress": "House 45, Road 7, Banani, Dhaka",
+    "items": [
+      {
+        "productId": "tactical-combat-overshirt-1793871956835",
+        "name": "Tactical Combat Over-Shirt",
+        "price": 1850,
+        "quantity": 1,
+        "size": "L",
+        "sku": "VGD-TACT-01"
+      }
+    ],
+    "subtotal": 1850,
+    "discount": 0,
+    "shippingFee": 70,
+    "total": 1770,
+    "paymentMethod": "Cash on Delivery",
+    "storeBranding": {
+      "name": "VANGUARD",
+      "logoUrl": "",
+      "phone": "+880 1756-096104",
+      "email": "support@vanguardbd.com",
+      "address": "House 12, Road 4, Sector 3, Uttara, Dhaka-1230, Bangladesh"
+    }
+  },
+  {
+    "id": "inv-ord-1793868775664",
+    "invoiceNumber": "INV-VNG-70347",
+    "orderNumber": "VNG-70347",
+    "orderId": "ord-1793868775664",
+    "date": "2026-11-05T08:52:55.664Z",
+    "customerName": "Fahim Shahriar",
+    "customerPhone": "01755112233",
+    "customerAddress": "House 10, Road 4, Sector 7, Uttara, Dhaka, Dhaka",
+    "items": [
+      {
+        "productId": "two-quater-black-27118",
+        "name": "Two Quater Black",
+        "slug": "two-quater-black-27118",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-1.jpg",
+        "price": 950,
+        "quantity": 2,
+        "size": "L",
+        "color": "Black"
+      }
+    ],
+    "subtotal": 1900,
+    "discount": 0,
+    "shippingFee": 70,
+    "total": 1970,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "storeBranding": {
+      "name": "VANGUARD",
+      "logoUrl": "",
+      "phone": "+880 1756-096104",
+      "email": "support@vanguardbd.com",
+      "address": "House 12, Road 4, Sector 3, Uttara, Dhaka-1230, Bangladesh"
+    }
+  },
+  {
+    "id": "inv-ord-1793868597604",
+    "invoiceNumber": "INV-VNG-30535",
+    "orderNumber": "VNG-30535",
+    "orderId": "ord-1793868597604",
+    "date": "2026-11-05T08:49:57.604Z",
+    "customerName": "Fahim Shahriar",
+    "customerPhone": "01755112233",
+    "customerAddress": "House 10, Road 4, Sector 7, Uttara, Dhaka, Dhaka",
+    "items": [
+      {
+        "productId": "two-quater-black-27118",
+        "name": "Two Quater Black",
+        "slug": "two-quater-black-27118",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-1.jpg",
+        "price": 950,
+        "quantity": 2,
+        "size": "L",
+        "color": "Black"
+      }
+    ],
+    "subtotal": 1900,
+    "discount": 0,
+    "shippingFee": 70,
+    "total": 1970,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "storeBranding": {
+      "name": "VANGUARD",
+      "logoUrl": "",
+      "phone": "+880 1756-096104",
+      "email": "support@vanguardbd.com",
+      "address": "House 12, Road 4, Sector 3, Uttara, Dhaka-1230, Bangladesh"
+    }
+  },
+  {
+    "id": "inv-ord-1793868462280",
+    "invoiceNumber": "INV-VNG-65673",
+    "orderNumber": "VNG-65673",
+    "orderId": "ord-1793868462280",
+    "date": "2026-11-05T08:47:42.280Z",
+    "customerName": "Fahim Shahriar",
+    "customerPhone": "01755112233",
+    "customerAddress": "House 10, Road 4, Sector 7, Uttara, Dhaka, Dhaka",
+    "items": [
+      {
+        "productId": "two-quater-black-27118",
+        "name": "Two Quater Black",
+        "slug": "two-quater-black-27118",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-1.jpg",
+        "price": 950,
+        "quantity": 2,
+        "size": "L",
+        "color": "Black"
+      }
+    ],
+    "subtotal": 1900,
+    "discount": 0,
+    "shippingFee": 70,
+    "total": 1970,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "storeBranding": {
+      "name": "VANGUARD",
+      "logoUrl": "",
+      "phone": "+880 1756-096104",
+      "email": "support@vanguardbd.com",
+      "address": "House 12, Road 4, Sector 3, Uttara, Dhaka-1230, Bangladesh"
+    }
+  },
+  {
+    "id": "inv-ord-1",
+    "invoiceNumber": "INV-VNG-84920",
+    "orderNumber": "VNG-84920",
+    "orderId": "ord-1",
+    "date": "2026-11-05T08:15:00Z",
+    "customerName": "Sabbir Hossain",
+    "customerPhone": "01711002233",
+    "customerAddress": "House 14, Road 5, Dhanmondi, Dhaka, Dhaka",
+    "items": [
+      {
+        "productId": "two-quater-black-27118",
+        "name": "Two Quater Black",
+        "slug": "two-quater-black-27118",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-1.jpg",
+        "price": 950,
+        "quantity": 1,
+        "size": "L",
+        "color": "Black",
+        "sku": "VNG-27118-L-BLA"
+      },
+      {
+        "productId": "polo-navy-blue-27117",
+        "name": "Polo Navy Blue",
+        "slug": "polo-navy-blue-27117",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-2.jpg",
+        "price": 850,
+        "quantity": 1,
+        "size": "XL",
+        "color": "Navy Blue",
+        "sku": "VNG-27117-XL-NAV"
+      }
+    ],
+    "subtotal": 1800,
+    "discount": 0,
+    "shippingFee": 70,
+    "total": 1870,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Pending",
+    "storeBranding": {
+      "name": "VANGUARD BD",
+      "phone": "01886111111",
+      "email": "support@vanguardbd.com",
+      "address": "House 24, Road 11, Banani, Dhaka-1213, Bangladesh"
+    }
+  },
+  {
+    "id": "inv-ord-2",
+    "invoiceNumber": "INV-VNG-84921",
+    "orderNumber": "VNG-84921",
+    "orderId": "ord-2",
+    "date": "2026-11-04T14:10:00Z",
+    "customerName": "Nayeem Rahman",
+    "customerPhone": "01819556677",
+    "customerAddress": "Flat 4B, Green View Tower, GEC Circle, Chittagong, Chittagong",
+    "items": [
+      {
+        "productId": "tactical-jogger-olive-27119",
+        "name": "Tactical Jogger Olive",
+        "slug": "tactical-jogger-olive-27119",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-3.jpg",
+        "price": 1350,
+        "quantity": 2,
+        "size": "34",
+        "color": "Olive Green",
+        "sku": "VNG-27119-34-OLI"
+      }
+    ],
+    "subtotal": 2700,
+    "discount": 0,
+    "shippingFee": 130,
+    "total": 2830,
+    "paymentMethod": "bKash",
+    "paymentStatus": "Paid",
+    "storeBranding": {
+      "name": "VANGUARD BD",
+      "phone": "01886111111",
+      "email": "support@vanguardbd.com",
+      "address": "House 24, Road 11, Banani, Dhaka-1213, Bangladesh"
+    }
+  },
+  {
+    "id": "inv-ord-3",
+    "invoiceNumber": "INV-VNG-84922",
+    "orderNumber": "VNG-84922",
+    "orderId": "ord-3",
+    "date": "2026-11-02T10:00:00Z",
+    "customerName": "Rifat Hasan",
+    "customerPhone": "01999887766",
+    "customerAddress": "Uposhohor, Sylhet, Sylhet",
+    "items": [
+      {
+        "productId": "winter-hoodie-black-27120",
+        "name": "Winter Tactical Hoodie",
+        "slug": "winter-hoodie-black-27120",
+        "image": "https://commandobd.com/uploads/all/2024/09/24/slider-1.jpg",
+        "price": 1850,
+        "quantity": 1,
+        "size": "L",
+        "color": "Carbon Black",
+        "sku": "VNG-27120-L-CAR"
+      }
+    ],
+    "subtotal": 1850,
+    "discount": 0,
+    "shippingFee": 130,
+    "total": 1980,
+    "paymentMethod": "Cash on Delivery",
+    "paymentStatus": "Paid",
+    "storeBranding": {
+      "name": "VANGUARD BD",
+      "phone": "01886111111",
+      "email": "support@vanguardbd.com",
+      "address": "House 24, Road 11, Banani, Dhaka-1213, Bangladesh"
+    }
+  }
+]

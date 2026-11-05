@@ -1,0 +1,82 @@
+{
+  "brand": {
+    "name": "VANGUARD",
+    "tagline": "EXPLORE YOUR FASHION",
+    "logoUrl": "",
+    "logoWidth": 44,
+    "logoHeight": 44
+  },
+  "colors": {
+    "primary": "#111111",
+    "secondary": "#d4145a",
+    "background": "#faf9f6",
+    "title": "#222831",
+    "paragraph": "#252a34",
+    "border": "#cccccc",
+    "alert": "#ff1818",
+    "success": "#34be82",
+    "warning": "#f8b400"
+  },
+  "typography": {
+    "fontFamily": "Open Sans, sans-serif",
+    "headingFont": "Open Sans, sans-serif",
+    "bodyFont": "Open Sans, sans-serif",
+    "baseFontSize": 14
+  },
+  "layout": {
+    "containerWidth": 1440,
+    "borderRadius": "16px",
+    "sectionSpacing": "48px"
+  },
+  "announcement": {
+    "isEnabled": false,
+    "text": "⚡ SPECIAL OFFER: FREE NATIONWIDE SHIPPING ON ALL PREPAID ORDERS TODAY!",
+    "link": "/shop",
+    "bgColor": "#111111",
+    "textColor": "#ffffff"
+  },
+  "header": {
+    "isSticky": true,
+    "showSearch": true,
+    "showCart": true,
+    "showLogin": true,
+    "bgColor": "#ffffff",
+    "textColor": "#111111",
+    "announcementText": "SPECIAL EID OFFER: FREE SHIPPING NATIONWIDE ON ORDERS OVER 2000 BDT",
+    "announcementEnabled": true
+  },
+  "footer": {
+    "description": "VANGUARD BD brings you modern utility, timeless denim, tailored aesthetics, and performance activewear crafted for the daring individual.",
+    "copyrightText": "© 2026 VANGUARD BD. All rights reserved.",
+    "watermarkText": "VANGUARD BD",
+    "bgColor": "#111111",
+    "textColor": "#ffffff",
+    "showNewsletter": true
+  },
+  "contact": {
+    "phone": "+880 130000000000",
+    "whatsapp": "+8801756096104",
+    "email": "support@vanguardbd.com",
+    "address": "House 12, Road 4, Sector 3, Uttara, Dhaka-1230, Bangladesh",
+    "hours": "Saturday - Thursday: 10:00 AM - 9:00 PM"
+  },
+  "social": {
+    "facebook": "https://facebook.com/commandobd",
+    "instagram": "https://instagram.com/commandobd",
+    "youtube": "https://youtube.com/@commandobd",
+    "tiktok": "https://tiktok.com/@commandobd"
+  },
+  "shipping": {
+    "insideDhaka": 70,
+    "outsideDhaka": 130,
+    "freeShippingThreshold": 3000,
+    "currency": "৳"
+  },
+  "seo": {
+    "metaTitle": "VANGUARD BD - High-End Lifestyle & Fashion Store",
+    "metaDescription": "Explore the latest collection of premium shirts, polo, denim, joggers, tactical outerwear, and accessories in Bangladesh.",
+    "canonicalUrl": "https://vanguardbd.com",
+    "ogImage": "/assets/banner/VuASK1790148496-light-4348x1613.jpeg",
+    "keywords": "fashion, bangladesh, shirts, denim, clothing, apparel, men fashion"
+  }
+}

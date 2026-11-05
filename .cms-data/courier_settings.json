@@ -1,0 +1,28 @@
+{
+  "steadfast": {
+    "enabled": true,
+    "apiKey": "sf_live_key_998241",
+    "secretKey": "sf_secret_token_x99",
+    "baseUrl": "https://portal.steadfast.com.bd/api/v1"
+  },
+  "pathao": {
+    "enabled": true,
+    "clientId": "pt_client_881",
+    "clientSecret": "pt_secret_552",
+    "username": "vanguard_logistics",
+    "password": "••••••••••••",
+    "storeId": "STORE_DHAKA_01",
+    "baseUrl": "https://courier.pathao.com/api/v1"
+  },
+  "redx": {
+    "enabled": true,
+    "apiKey": "rx_key_live_2026",
+    "baseUrl": "https://openapi.redx.com.bd/v1.0.0-beta"
+  },
+  "defaultCourier": "Steadfast",
+  "senderInfo": {
+    "name": "VANGUARD Fulfillment Center",
+    "phone": "01886111111",
+    "address": "Plot 12, Block D, Banani Commercial Area, Dhaka"
+  }
+}

@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VANGUARD BD — Production-Ready E-Commerce & Advanced CMS / ERP Platform
 
-## Getting Started
+Reference Design & Standard: Inspired by Commando BD (`https://commandobd.com/`)  
+Brand Identity: **VANGUARD BD** — *EXPLORE YOUR FASHION*
 
-First, run the development server:
+---
+
+## 🚀 Overview
+
+A full-stack, enterprise-grade e-commerce ecosystem built with Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB/Mongoose, and Redis. Features an advanced 100% dynamic CMS Page Builder, comprehensive ERP-style Admin Management System, real-time inventory tracking, and Bangladesh courier integrations (Steadfast, Pathao, RedX).
+
+---
+
+## 🛠️ Technology Stack
+
+- **Frontend:** Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Lucide Icons
+- **Backend:** Node.js, Express.js, TypeScript (`backend/src/server.ts`)
+- **Database / Data Store:** MongoDB / Mongoose with resilient JSON file fallback (`.cms-data/`)
+- **State Management & Context:** React Context API (`CMSContext`, `CartContext`)
+- **Authentication & Security:** JWT Authentication, Role-Based Access Control (RBAC), bcrypt
+- **Integrations:**
+  - Couriers: Steadfast, Pathao, RedX
+  - Media & Storage: Multi-image file uploads, Cloudinary support
+  - Payment Gateways: bKash, Nagad, Rocket, Cash on Delivery (COD)
+
+---
+
+## 🌟 Key Features
+
+### 1. 1:1 Pixel-Perfect Modern E-Commerce Storefront
+- Dynamic Hero Banner Slider with mobile & desktop variants
+- 3-Column Promo Feature Grid (Polo, Denim, Cargo Pants)
+- New Arrivals & Flash Sale Carousels
+- Interactive Category Collection Grid
+- Responsive Product Drawer, Quick Cart & Fast Checkout
+- Customer Accounts (`/my/orders`, `/my/wishlists`, `/track/order`)
+
+### 2. Advanced CMS & Page Builder (`/admin/page-builder`, `/admin/sections`)
+- 100% dynamic content editing for every heading, banner, button, and image
+- Visual drag-and-drop section reordering
+- Section enable/disable toggle without page reload
+- Hero Banner Manager (`/admin/hero-banners`) with live publishing
+
+### 3. Comprehensive Product & Variation Management (`/admin/products`)
+- Multi-image upload with gallery ordering and thumbnail selection
+- Dynamic cascading category and subcategory selection
+- Unlimited variations (Size, Color, Material, Fit) with independent SKUs, prices, and stock
+
+### 4. Category & Subcategory Management (`/admin/categories`)
+- Infinite category nesting and parent-child hierarchy
+- Dedicated image uploader per category and subcategory
+- Quick `+ Subcategory` button on every parent category card
+
+### 5. ERP-Style Order Management (`/admin/orders`)
+- 11-stage order lifecycle tracking (`Pending` $\rightarrow$ `Delivered`)
+- Inline manual status dropdown per order
+- Date-by-Day history view with daily revenue and count aggregation
+- Bulk selection with multi-order status change, bulk invoice printing, and CSV export
+
+### 6. Inventory & Warehouse Management (`/admin/inventory`)
+- Real-time stock reserve, damage, and return tracking
+- Automated inventory transaction logs and stock adjustment reasons
+- Low stock and out-of-stock threshold alerts
+
+### 7. Courier & Logistics Management (`/admin/courier`)
+- Direct API integration with Steadfast, Pathao, and RedX
+- One-click consignment booking, barcode generation, and tracking ID syncing
+
+---
+
+## 💻 Getting Started
+
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clone the repository
+git clone https://github.com/dev-pro-shamim/vangourdbd.git
+cd vangourdbd
+
+# Install dependencies
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Running Locally
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Start Next.js development server
+npm run dev
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+# Or run the production dual-port runner (Port 3000 & 3001)
+node scripts/run_dual_ports.js
 
-## Learn More
+# Start Express Backend API server (Port 5000)
+npx tsx backend/src/server.ts
+```
 
-To learn more about Next.js, take a look at the following resources:
+- **Live Storefront:** `http://localhost:3000` / `http://localhost:3001`
+- **Admin Dashboard:** `http://localhost:3001/admin`
+- **Backend API:** `http://localhost:5000/api`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔒 Security & RBAC
 
-## Deploy on Vercel
+- Multi-tier administrative roles: Super Admin, Order Manager, Inventory Staff, Support Agent
+- Password hashing with bcrypt (10 rounds)
+- Full administrative audit log trail for order edits, stock changes, and CMS updates
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+
+Proprietary — All rights reserved by **VANGUARD BD**.

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "849605873_1048217674932797_4789322090449448732_n.jpg",
+    "url": "/assets/uploads/1793872311205_0_849605873_1048217674932797_4789322090449448732_n.jpg",
+    "size": 72182,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "849605873_1048217674932797_4789322090449448732_n.jpg",
+    "id": "med-1793872311207-0",
+    "createdAt": "2026-11-05T09:51:51.207Z"
+  },
+  {
+    "name": "850413085_1048217744932790_5332251905329345565_n.jpg",
+    "url": "/assets/uploads/1793872300933_3_850413085_1048217744932790_5332251905329345565_n.jpg",
+    "size": 79533,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "850413085_1048217744932790_5332251905329345565_n.jpg",
+    "id": "med-1793872300936-3",
+    "createdAt": "2026-11-05T09:51:40.936Z"
+  },
+  {
+    "name": "848651349_1048217734932791_443778664056022810_n.jpg",
+    "url": "/assets/uploads/1793872300931_2_848651349_1048217734932791_443778664056022810_n.jpg",
+    "size": 71093,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "848651349_1048217734932791_443778664056022810_n.jpg",
+    "id": "med-1793872300936-2",
+    "createdAt": "2026-11-05T09:51:40.936Z"
+  },
+  {
+    "name": "849194575_1048217764932788_6017968723412062186_n.jpg",
+    "url": "/assets/uploads/1793872300929_1_849194575_1048217764932788_6017968723412062186_n.jpg",
+    "size": 96570,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "849194575_1048217764932788_6017968723412062186_n.jpg",
+    "id": "med-1793872300936-1",
+    "createdAt": "2026-11-05T09:51:40.936Z"
+  },
+  {
+    "name": "849589328_1048217768266121_393600267630103784_n.jpg",
+    "url": "/assets/uploads/1793872300924_0_849589328_1048217768266121_393600267630103784_n.jpg",
+    "size": 166547,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "849589328_1048217768266121_393600267630103784_n.jpg",
+    "id": "med-1793872300936-0",
+    "createdAt": "2026-11-05T09:51:40.936Z"
+  },
+  {
+    "name": "category_banner_tactical_v2.jpg",
+    "url": "/assets/uploads/1793871956904_0_category_banner_tactical_v2.jpg",
+    "size": 55,
+    "mimeType": "image/jpeg",
+    "folder": "categories",
+    "altText": "category_banner_tactical_v2.jpg",
+    "id": "med-1793871956905-0",
+    "createdAt": "2026-11-05T09:45:56.905Z"
+  },
+  {
+    "name": "category_banner_tactical.jpg",
+    "url": "/assets/uploads/1793871956885_0_category_banner_tactical.jpg",
+    "size": 48,
+    "mimeType": "image/jpeg",
+    "folder": "categories",
+    "altText": "category_banner_tactical.jpg",
+    "id": "med-1793871956887-0",
+    "createdAt": "2026-11-05T09:45:56.887Z"
+  },
+  {
+    "name": "test_product_image_10.jpg",
+    "url": "/assets/uploads/1793871956821_9_test_product_image_10.jpg",
+    "size": 76,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_10.jpg",
+    "id": "med-1793871956824-9",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_9.jpg",
+    "url": "/assets/uploads/1793871956821_8_test_product_image_9.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_9.jpg",
+    "id": "med-1793871956824-8",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_8.jpg",
+    "url": "/assets/uploads/1793871956820_7_test_product_image_8.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_8.jpg",
+    "id": "med-1793871956824-7",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_7.jpg",
+    "url": "/assets/uploads/1793871956819_6_test_product_image_7.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_7.jpg",
+    "id": "med-1793871956824-6",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_6.jpg",
+    "url": "/assets/uploads/1793871956818_5_test_product_image_6.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_6.jpg",
+    "id": "med-1793871956824-5",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_5.jpg",
+    "url": "/assets/uploads/1793871956818_4_test_product_image_5.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_5.jpg",
+    "id": "med-1793871956824-4",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_4.jpg",
+    "url": "/assets/uploads/1793871956817_3_test_product_image_4.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_4.jpg",
+    "id": "med-1793871956824-3",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_3.jpg",
+    "url": "/assets/uploads/1793871956816_2_test_product_image_3.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_3.jpg",
+    "id": "med-1793871956824-2",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_2.jpg",
+    "url": "/assets/uploads/1793871956816_1_test_product_image_2.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_2.jpg",
+    "id": "med-1793871956824-1",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "name": "test_product_image_1.jpg",
+    "url": "/assets/uploads/1793871956815_0_test_product_image_1.jpg",
+    "size": 75,
+    "mimeType": "image/jpeg",
+    "folder": "products",
+    "altText": "test_product_image_1.jpg",
+    "id": "med-1793871956824-0",
+    "createdAt": "2026-11-05T09:45:56.824Z"
+  },
+  {
+    "id": "med-1",
+    "name": "Hero Slider Slide 1",
+    "url": "https://commandobd.com/uploads/all/2024/09/24/slider-1.jpg",
+    "size": 245800,
+    "mimeType": "image/jpeg",
+    "folder": "banners",
+    "altText": "VANGUARD Signature Tactical Collection Slide 1",
+    "createdAt": "2026-10-01T10:00:00Z"
+  },
+  {
+    "id": "med-2",
+    "name": "Hero Slider Slide 2",
+    "url": "https://commandobd.com/uploads/all/2024/09/24/slider-2.jpg",
+    "size": 312400,
+    "mimeType": "image/jpeg",
+    "folder": "banners",
+    "altText": "VANGUARD Streetwear Drop Slide 2",
+    "createdAt": "2026-10-01T10:05:00Z"
+  },
+  {
+    "id": "med-3",
+    "name": "Hero Slider Slide 3",
+    "url": "https://commandobd.com/uploads/all/2024/09/24/slider-3.jpg",
+    "size": 289100,
+    "mimeType": "image/jpeg",
+    "folder": "banners",
+    "altText": "VANGUARD Winter Edition Slide 3",
+    "createdAt": "2026-10-01T10:10:00Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sup-1",
+    "name": "Bengal Knitwear & Garments Ltd.",
+    "contactPerson": "Mr. Faruk Hossain",
+    "email": "faruk@bengalknit.com.bd",
+    "phone": "01711223344",
+    "address": "Konabari Industrial Area, Gazipur",
+    "notes": "Primary supplier of heavy 260GSM combed cotton fabrics.",
+    "createdAt": "2026-01-10T00:00:00Z"
+  },
+  {
+    "id": "sup-2",
+    "name": "Apex Tactical & Denim Mills",
+    "contactPerson": "Engr. Mahmudul Hasan",
+    "email": "mahmud@apextactical.com",
+    "phone": "01819887766",
+    "address": "DEPZ Extension, Savar, Dhaka",
+    "notes": "Ripstop fabric and tactical pant manufacturing partner.",
+    "createdAt": "2026-02-05T00:00:00Z"
+  },
+  {
+    "id": "sup-3",
+    "name": "Chittagong Yarns & Accessories",
+    "contactPerson": "Kamal Uddin",
+    "email": "kamal@ctgaccessories.com",
+    "phone": "01912345678",
+    "address": "Nasirabad I/A, Chittagong",
+    "notes": "Zippers, engraved metal buckles, and embroidery patches.",
+    "createdAt": "2026-03-12T00:00:00Z"
+  }
+]

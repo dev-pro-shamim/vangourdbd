@@ -1,0 +1,21 @@
+[
+  {
+    "id": "sec-log-1",
+    "ip": "103.242.112.90",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "action": "Order Checkout Attempt",
+    "riskScore": 5,
+    "status": "ALLOWED",
+    "timestamp": "2026-11-05T12:00:00Z"
+  },
+  {
+    "id": "sec-log-2",
+    "ip": "185.220.101.45",
+    "userAgent": "Python-urllib/3.9",
+    "action": "Rapid Checkout Script Triggered",
+    "reason": "Exceeded 10 requests / 5 seconds threshold",
+    "riskScore": 95,
+    "status": "BLOCKED",
+    "timestamp": "2026-11-05T11:45:00Z"
+  }
+]

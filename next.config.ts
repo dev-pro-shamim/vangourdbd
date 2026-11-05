@@ -1,16 +1,22 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
-  turbopack: {
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
+  serverExternalPackages: ["mongoose"],
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "back-office.commandobd.com",
       },
-    },
+      {
+        protocol: "https",
+        hostname: "commandobd.com",
+      },
+    ],
+    unoptimized: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 
