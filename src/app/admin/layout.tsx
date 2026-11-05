@@ -40,6 +40,8 @@ import {
   Send,
   Boxes,
   Lock,
+  LogOut,
+  User as UserIcon,
 } from "lucide-react";
 import { useCMS } from "@/context/CMSContext";
 
@@ -52,6 +54,43 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   const [supportMessage, setSupportMessage] = useState("");
   const [supportSending, setSupportSending] = useState(false);
   const [supportSuccess, setSupportSuccess] = useState(false);
+
+  // Authentication State
+  const [currentUser, setCurrentUser] = useState<any>(null);
+  const [isCheckingAuth, setIsCheckingAuth] = useState(true);
+
+  React.useEffect(() => {
+    if (pathname === "/admin/login") {
+      setIsCheckingAuth(false);
+      return;
+    }
+
+    try {
+      const stored = localStorage.getItem("vanguard_admin_auth");
+      if (!stored) {
+        window.location.href = "/admin/login";
+        return;
+      }
+      const parsed = JSON.parse(stored);
+      if (!parsed?.token) {
+        window.location.href = "/admin/login";
+        return;
+      }
+      setCurrentUser(parsed.user || { name: "Shahnawaz Shamim", roleName: "Super Admin", email: "admin@vanguardbd.com" });
+    } catch {
+      window.location.href = "/admin/login";
+    } finally {
+      setIsCheckingAuth(false);
+    }
+  }, [pathname]);
+
+  const handleLogout = () => {
+    if (confirm("Are you sure you want to log out from Vanguard BD Admin?")) {
+      localStorage.removeItem("vanguard_admin_auth");
+      document.cookie = "vanguard_admin_token=; path=/; max-age=0";
+      window.location.href = "/admin/login";
+    }
+  };
 
   const navGroups = [
     {
@@ -153,6 +192,21 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
     }
   };
 
+  if (pathname === "/admin/login") {
+    return <>{children}</>;
+  }
+
+  if (isCheckingAuth) {
+    return (
+      <div className="min-h-screen bg-[#070a12] flex items-center justify-center p-4">
+        <div className="text-center space-y-3">
+          <div className="w-10 h-10 border-2 border-amber-400 border-t-transparent rounded-full animate-spin mx-auto" />
+          <p className="text-xs font-bold uppercase tracking-widest text-slate-400">Verifying Admin Session...</p>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-[#0b0f19] text-neutral-100 flex font-sans antialiased">
       {/* Mobile Sidebar Overlay */}
@@ -237,6 +291,29 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
 
         {/* Permanent Support & Status Section */}
         <div className="p-3 border-t border-slate-800/80 bg-slate-900/60 shrink-0 space-y-2">
+          {/* User Profile Card in Sidebar */}
+          <div className="p-2.5 rounded-xl bg-slate-950/80 border border-slate-800 flex items-center justify-between">
+            <div className="flex items-center gap-2 overflow-hidden">
+              <div className="w-7 h-7 rounded-full bg-amber-400 text-slate-950 font-black flex items-center justify-center text-xs shrink-0">
+                {currentUser?.name?.slice(0, 2).toUpperCase() || "AD"}
+              </div>
+              <div className="min-w-0">
+                <p className="text-xs font-bold text-white truncate">{currentUser?.name || "Super Admin"}</p>
+                <p className="text-[10px] text-amber-400 font-mono leading-none truncate">{currentUser?.roleName || "Super Admin"}</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Explicit Logout Button in Sidebar */}
+          <button
+            type="button"
+            onClick={handleLogout}
+            className="w-full flex items-center justify-center gap-2 bg-red-950/40 hover:bg-red-900/50 border border-red-800/40 text-red-300 font-bold text-xs py-2 px-3 rounded-lg transition-colors cursor-pointer"
+          >
+            <LogOut size={14} />
+            <span>Sign Out</span>
+          </button>
+
           {/* Permanent Support Button */}
           <button
             onClick={() => setSupportModalOpen(true)}
@@ -293,13 +370,32 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
               <span>Help & Support</span>
             </button>
 
-            <div className="flex items-center gap-2 px-3 py-1.5 bg-slate-800/80 rounded-full border border-slate-700/60 text-xs text-slate-300">
+            <div className="hidden sm:flex items-center gap-2 px-3 py-1.5 bg-slate-800/80 rounded-full border border-slate-700/60 text-xs text-slate-300">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-              <span className="hidden sm:inline font-mono">Dual-Engine Active</span>
+              <span className="font-mono">Live</span>
             </div>
 
-            <div className="w-8 h-8 rounded-full bg-slate-800 border border-slate-700 flex items-center justify-center text-xs font-bold text-amber-400">
-              AD
+            {/* Admin Profile Pill & Logout in Topbar */}
+            <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-slate-900 border border-slate-800 text-xs">
+                <div className="w-6 h-6 rounded-full bg-amber-400 text-slate-950 font-black flex items-center justify-center text-[10px] shrink-0">
+                  {currentUser?.name?.slice(0, 2).toUpperCase() || "AD"}
+                </div>
+                <div className="hidden md:block text-left">
+                  <p className="text-white font-bold text-xs leading-none">{currentUser?.name || "Super Admin"}</p>
+                  <p className="text-[10px] text-amber-400 font-mono leading-none mt-0.5">{currentUser?.roleName || "Super Admin"}</p>
+                </div>
+              </div>
+
+              <button
+                type="button"
+                onClick={handleLogout}
+                title="Logout from Admin"
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-red-500/10 hover:bg-red-500/20 border border-red-500/30 text-red-400 hover:text-red-300 text-xs font-bold transition-all cursor-pointer active:scale-95"
+              >
+                <LogOut size={14} />
+                <span className="hidden sm:inline">Logout</span>
+              </button>
             </div>
           </div>
         </header>
